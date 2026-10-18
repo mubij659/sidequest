@@ -43,6 +43,17 @@ function getDistance(lat1, lon1, lat2, lon2) {
 }
 
 export default async (request) => {
+    return new Response(
+  JSON.stringify({
+    stops: [],
+    alternatives: [],
+    source: 'test',
+  }),
+  {
+    status: 200,
+    headers: { 'Content-Type': 'application/json' },
+  }
+)
   if (request.method !== 'POST') {
     return Response.json(
       { error: 'Method not allowed' },
