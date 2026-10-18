@@ -112,6 +112,7 @@ For hosted deployments, configure `GEMINI_API_KEY` in the hosting provider's env
 ## ⚠️ Current Limitations
 
 - The destination dataset currently focuses on Charlottesville and the UVA area.
+- **Starting locations:** Sidequest currently supports five predefined starting points around UVA: UVA Rotunda, O-Hill, Gooch-Dillard, Shannon Library, and Clark Library. Future versions will support custom starting locations and additional cities.
 - Destination categories may occasionally require correction.
 - Budget preferences are approximate; verified prices are not available for every destination.
 - Business hours, accessibility, and other venue details should be independently verified.
