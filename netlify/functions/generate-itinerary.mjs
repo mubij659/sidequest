@@ -253,11 +253,19 @@ const fallbackStops = rankedPlaces.slice(0, 3)
     )
     .slice(0, 20)
 
-  return Response.json({
+  return new Response(
+  JSON.stringify({
     stops: fallbackStops,
     alternatives,
     source: 'fallback',
-  })
+  }),
+  {
+    status: 200,
+    headers: {
+      'Content-Type': 'application/json',
+    },
+  }
+)
 }
 
 
