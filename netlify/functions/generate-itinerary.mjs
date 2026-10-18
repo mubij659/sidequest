@@ -132,6 +132,17 @@ console.log('Places matching interests:', matchingPlaces.length)
 console.log('Selected interests:', interests)
 console.log('First imported place:', osmPlaces[0])
 const candidatePlaces = matchingPlaces.slice(0, 35)
+const fallbackStops = candidatePlaces.slice(0, 3)
+
+const fallbackAlternatives = matchingPlaces
+  .filter((place) => !fallbackStops.some((stop) => stop.id === place.id))
+  .slice(0, 20)
+
+return Response.json({
+  stops: fallbackStops,
+  alternatives: fallbackAlternatives,
+  source: 'fallback',
+})
 
 const availablePlaces = candidatePlaces
   .map((place) => `${place.id} | ${place.name} (${place.category})`)
