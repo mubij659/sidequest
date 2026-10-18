@@ -1,0 +1,3434 @@
+[
+  {
+    "id": "osm-node-356592471",
+    "name": "Rugby Road-University Corner Historic District",
+    "category": "outdoors",
+    "lat": 38.0418055,
+    "lon": -78.50029,
+    "address": ""
+  },
+  {
+    "id": "osm-node-356592481",
+    "name": "University of Virginia Historic District",
+    "category": "outdoors",
+    "lat": 38.0345834,
+    "lon": -78.5039012,
+    "address": ""
+  },
+  {
+    "id": "osm-node-356592539",
+    "name": "Albemarle Historic District",
+    "category": "outdoors",
+    "lat": 38.0315693,
+    "lon": -78.4779167,
+    "address": ""
+  },
+  {
+    "id": "osm-node-356592541",
+    "name": "Charlottesville and Albemarle County Courthouse Historic District",
+    "category": "outdoors",
+    "lat": 38.0313388,
+    "lon": -78.4803207,
+    "address": ""
+  },
+  {
+    "id": "osm-node-356592590",
+    "name": "Ridge Street Historic District",
+    "category": "outdoors",
+    "lat": 38.0223617,
+    "lon": -78.4914008,
+    "address": ""
+  },
+  {
+    "id": "osm-node-367980956",
+    "name": "Performing Arts Center",
+    "category": "culture",
+    "lat": 38.0393728,
+    "lon": -78.5041926,
+    "address": ""
+  },
+  {
+    "id": "osm-node-367988049",
+    "name": "Albert and Shirley Small Special Collections Library",
+    "category": "books",
+    "lat": 38.0361361,
+    "lon": -78.505741,
+    "address": "160 McCormick Road"
+  },
+  {
+    "id": "osm-node-367988317",
+    "name": "Fiske Kimball Fine Arts Library",
+    "category": "books",
+    "lat": 38.0388804,
+    "lon": -78.5034543,
+    "address": "160 McCormick Road"
+  },
+  {
+    "id": "osm-node-367990337",
+    "name": "Culbreth and Helms Theatre",
+    "category": "culture",
+    "lat": 38.0399346,
+    "lon": -78.5044745,
+    "address": ""
+  },
+  {
+    "id": "osm-node-570088901",
+    "name": "Scholars' Lab",
+    "category": "books",
+    "lat": 38.0364934,
+    "lon": -78.5056132,
+    "address": "160 McCormick Road"
+  },
+  {
+    "id": "osm-node-914054318",
+    "name": "Beer Run",
+    "category": "food",
+    "lat": 38.0246294,
+    "lon": -78.4684073,
+    "address": "156 Carlton Road"
+  },
+  {
+    "id": "osm-node-1392644727",
+    "name": "Panera Bread",
+    "category": "food",
+    "lat": 38.0522817,
+    "lon": -78.501621,
+    "address": "1121 Emmet Street North"
+  },
+  {
+    "id": "osm-node-1393864526",
+    "name": "Brazos",
+    "category": "food",
+    "lat": 38.0519127,
+    "lon": -78.5005385,
+    "address": "1133 Emmet Street North"
+  },
+  {
+    "id": "osm-node-1523622997",
+    "name": "Marco and Luca",
+    "category": "food",
+    "lat": 38.035653,
+    "lon": -78.500807,
+    "address": "107 Elliewood Avenue"
+  },
+  {
+    "id": "osm-node-1523623347",
+    "name": "Cactus Mexican Restuarant",
+    "category": "food",
+    "lat": 38.022956,
+    "lon": -78.470253,
+    "address": "221 Carlton Road"
+  },
+  {
+    "id": "osm-node-1523630738",
+    "name": "Thai Cuisine & Noodle House",
+    "category": "food",
+    "lat": 38.0670638,
+    "lon": -78.4953109,
+    "address": "2005 Commonwealth Drive"
+  },
+  {
+    "id": "osm-node-2120135378",
+    "name": "Camellias Bar & Roastery",
+    "category": "drinks",
+    "lat": 38.033521,
+    "lon": -78.484272,
+    "address": "400 Preston Ave"
+  },
+  {
+    "id": "osm-node-2342356558",
+    "name": "Atlas Coffee",
+    "category": "drinks",
+    "lat": 38.025706,
+    "lon": -78.515735,
+    "address": "2206 Fontaine Avenue"
+  },
+  {
+    "id": "osm-node-2448757807",
+    "name": "Citizen Burger Bar",
+    "category": "food",
+    "lat": 38.0303074,
+    "lon": -78.4803858,
+    "address": "212 East Main Street"
+  },
+  {
+    "id": "osm-node-2572388940",
+    "name": "Free Speech Wall",
+    "category": "exploring",
+    "lat": 38.0295332,
+    "lon": -78.4775846,
+    "address": ""
+  },
+  {
+    "id": "osm-node-2600843565",
+    "name": "Mellow Mushroom",
+    "category": "food",
+    "lat": 38.033648,
+    "lon": -78.498614,
+    "address": "1321 West Main Street"
+  },
+  {
+    "id": "osm-node-2633347575",
+    "name": "Box'd Kitchen",
+    "category": "food",
+    "lat": 38.0326154,
+    "lon": -78.4942669,
+    "address": "909 West Main Street"
+  },
+  {
+    "id": "osm-node-2633347585",
+    "name": "Asado Wing & Taco Company",
+    "category": "food",
+    "lat": 38.0338776,
+    "lon": -78.4990809,
+    "address": "1327 West Main Street"
+  },
+  {
+    "id": "osm-node-2633347587",
+    "name": "Got Dumplings",
+    "category": "food",
+    "lat": 38.0339888,
+    "lon": -78.4993007,
+    "address": "1395 West Main Street"
+  },
+  {
+    "id": "osm-node-2633347588",
+    "name": "Boylan Heights",
+    "category": "food",
+    "lat": 38.034079,
+    "lon": -78.499414,
+    "address": "102 14th Street Northwest"
+  },
+  {
+    "id": "osm-node-2633347590",
+    "name": "The Spot",
+    "category": "food",
+    "lat": 38.03427,
+    "lon": -78.499756,
+    "address": "1407 University Avenue"
+  },
+  {
+    "id": "osm-node-2633347594",
+    "name": "Christian's Pizza",
+    "category": "food",
+    "lat": 38.034172,
+    "lon": -78.49936,
+    "address": "100 14th Street Northwest"
+  },
+  {
+    "id": "osm-node-2633347597",
+    "name": "FIG Bistro & Bar",
+    "category": "food",
+    "lat": 38.0339596,
+    "lon": -78.4992356,
+    "address": "1331 West Main Street"
+  },
+  {
+    "id": "osm-node-2641546148",
+    "name": "Smyrna",
+    "category": "food",
+    "lat": 38.031597,
+    "lon": -78.489964,
+    "address": "707 West Main Street"
+  },
+  {
+    "id": "osm-node-2641546153",
+    "name": "Albemarle Baking",
+    "category": "bakery",
+    "lat": 38.0306037,
+    "lon": -78.4872765,
+    "address": "418 West Main Street"
+  },
+  {
+    "id": "osm-node-2641546154",
+    "name": "Orzo Kitchen and Wine Bar",
+    "category": "food",
+    "lat": 38.030563,
+    "lon": -78.487101,
+    "address": "416 West Main Street"
+  },
+  {
+    "id": "osm-node-2641546160",
+    "name": "Continental Divide",
+    "category": "food",
+    "lat": 38.0318838,
+    "lon": -78.4910901,
+    "address": "811 West Main Street"
+  },
+  {
+    "id": "osm-node-2646122187",
+    "name": "Shenanigans",
+    "category": "shopping",
+    "lat": 38.0314626,
+    "lon": -78.4883626,
+    "address": "601 West Main Street"
+  },
+  {
+    "id": "osm-node-2646122204",
+    "name": "Feast!",
+    "category": "drinks",
+    "lat": 38.030258,
+    "lon": -78.487001,
+    "address": "416 West Main Street"
+  },
+  {
+    "id": "osm-node-2646122225",
+    "name": "Vision BBQ",
+    "category": "food",
+    "lat": 38.0324085,
+    "lon": -78.4851029,
+    "address": "249 Ridge McIntire Road"
+  },
+  {
+    "id": "osm-node-2646122228",
+    "name": "Subway",
+    "category": "food",
+    "lat": 38.0324301,
+    "lon": -78.4851697,
+    "address": "251 Ridge McIntire Road"
+  },
+  {
+    "id": "osm-node-2689303933",
+    "name": "Jade Garden",
+    "category": "food",
+    "lat": 38.012911,
+    "lon": -78.503344,
+    "address": "1139 5th Street Southwest"
+  },
+  {
+    "id": "osm-node-2689303934",
+    "name": "Domino's",
+    "category": "food",
+    "lat": 38.0127521,
+    "lon": -78.5035284,
+    "address": "1147 5th Street Southwest"
+  },
+  {
+    "id": "osm-node-2692149338",
+    "name": "Taco Bell",
+    "category": "food",
+    "lat": 38.0473784,
+    "lon": -78.504574,
+    "address": "801 Emmet Street North"
+  },
+  {
+    "id": "osm-node-2692149350",
+    "name": "Talbots",
+    "category": "shopping",
+    "lat": 38.0509315,
+    "lon": -78.503386,
+    "address": ""
+  },
+  {
+    "id": "osm-node-2692149353",
+    "name": "Old Navy",
+    "category": "shopping",
+    "lat": 38.0493425,
+    "lon": -78.504624,
+    "address": ""
+  },
+  {
+    "id": "osm-node-2692149355",
+    "name": "Cook Out",
+    "category": "food",
+    "lat": 38.054973,
+    "lon": -78.496821,
+    "address": "1254 Emmet Street North"
+  },
+  {
+    "id": "osm-node-2692149357",
+    "name": "Arby's",
+    "category": "food",
+    "lat": 38.053353,
+    "lon": -78.4981923,
+    "address": "1230 Emmet Street North"
+  },
+  {
+    "id": "osm-node-2705023892",
+    "name": "Yuan Ho Gao",
+    "category": "food",
+    "lat": 38.0268329,
+    "lon": -78.5160034,
+    "address": "117 Maury Avenue"
+  },
+  {
+    "id": "osm-node-2725380311",
+    "name": "Miller's Downtown",
+    "category": "food",
+    "lat": 38.030993,
+    "lon": -78.481797,
+    "address": "109 West Main Street"
+  },
+  {
+    "id": "osm-node-2725854711",
+    "name": "The Jefferson Theatre",
+    "category": "culture",
+    "lat": 38.0303642,
+    "lon": -78.4814272,
+    "address": "110 East Main Street"
+  },
+  {
+    "id": "osm-node-2727039026",
+    "name": "Thai Fresh",
+    "category": "food",
+    "lat": 38.02953,
+    "lon": -78.478556,
+    "address": "106 5th Street Southeast"
+  },
+  {
+    "id": "osm-node-2784023018",
+    "name": "Finch",
+    "category": "shopping",
+    "lat": 38.0347568,
+    "lon": -78.5003109,
+    "address": "1501 University Avenue"
+  },
+  {
+    "id": "osm-node-2784023032",
+    "name": "The Virginian",
+    "category": "food",
+    "lat": 38.03525,
+    "lon": -78.500705,
+    "address": "1521 University Avenue"
+  },
+  {
+    "id": "osm-node-2784023035",
+    "name": "Bodo's Bagels",
+    "category": "food",
+    "lat": 38.0356609,
+    "lon": -78.5009338,
+    "address": "1609 University Avenue"
+  },
+  {
+    "id": "osm-node-2784141811",
+    "name": "Student Garden",
+    "category": "outdoors",
+    "lat": 38.035395,
+    "lon": -78.5144093,
+    "address": ""
+  },
+  {
+    "id": "osm-node-2784209748",
+    "name": "Zaxby's",
+    "category": "food",
+    "lat": 38.0545491,
+    "lon": -78.4971993,
+    "address": "1248 Emmet Street North"
+  },
+  {
+    "id": "osm-node-2953627037",
+    "name": "Hong Kong",
+    "category": "food",
+    "lat": 38.0015554,
+    "lon": -78.4963535,
+    "address": "32 Mill Creek Drive"
+  },
+  {
+    "id": "osm-node-3036989990",
+    "name": "Botanical Plant Based Fare",
+    "category": "food",
+    "lat": 38.030027,
+    "lon": -78.4787,
+    "address": "421 East Main Street"
+  },
+  {
+    "id": "osm-node-3036989991",
+    "name": "Men's & Boys' Shop",
+    "category": "shopping",
+    "lat": 38.0298732,
+    "lon": -78.4789871,
+    "address": "410 East Main Street"
+  },
+  {
+    "id": "osm-node-3036989992",
+    "name": "Rapture",
+    "category": "food",
+    "lat": 38.030373,
+    "lon": -78.479834,
+    "address": "303 East Main Street"
+  },
+  {
+    "id": "osm-node-3036989993",
+    "name": "Café Frank",
+    "category": "food",
+    "lat": 38.030287,
+    "lon": -78.479551,
+    "address": "317 East Main Street"
+  },
+  {
+    "id": "osm-node-3036989994",
+    "name": "The Nook",
+    "category": "food",
+    "lat": 38.030056,
+    "lon": -78.478788,
+    "address": "415 East Main Street"
+  },
+  {
+    "id": "osm-node-3036989995",
+    "name": "O'Suzannah",
+    "category": "shopping",
+    "lat": 38.0300179,
+    "lon": -78.4794582,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093065027",
+    "name": "Olivia",
+    "category": "shopping",
+    "lat": 38.0511068,
+    "lon": -78.5032012,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093065028",
+    "name": "Barnes & Noble",
+    "category": "books",
+    "lat": 38.0512437,
+    "lon": -78.503046,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093065030",
+    "name": "Madewell",
+    "category": "shopping",
+    "lat": 38.0515196,
+    "lon": -78.5027452,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093102983",
+    "name": "Virginia Shop",
+    "category": "shopping",
+    "lat": 38.051405,
+    "lon": -78.5019571,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093102984",
+    "name": "Greenberry's Coffee & Tea Co",
+    "category": "drinks",
+    "lat": 38.0514657,
+    "lon": -78.5018524,
+    "address": "1049 Emmet Street North"
+  },
+  {
+    "id": "osm-node-3093102988",
+    "name": "J.Jill",
+    "category": "shopping",
+    "lat": 38.051832,
+    "lon": -78.501421,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093102993",
+    "name": "Poke Sushi Bowl",
+    "category": "food",
+    "lat": 38.051958,
+    "lon": -78.501828,
+    "address": "1104 Emmet Street North"
+  },
+  {
+    "id": "osm-node-3093102995",
+    "name": "Lou Lou",
+    "category": "shopping",
+    "lat": 38.0516428,
+    "lon": -78.5022868,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093102996",
+    "name": "Banana Republic",
+    "category": "shopping",
+    "lat": 38.0516646,
+    "lon": -78.5020619,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093102998",
+    "name": "Athleta",
+    "category": "shopping",
+    "lat": 38.0516888,
+    "lon": -78.5025731,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093103003",
+    "name": "Loft",
+    "category": "shopping",
+    "lat": 38.0520916,
+    "lon": -78.5021574,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093103004",
+    "name": "Five Guys",
+    "category": "food",
+    "lat": 38.0522833,
+    "lon": -78.5020095,
+    "address": "1119 Emmet Street"
+  },
+  {
+    "id": "osm-node-3093103006",
+    "name": "Chico's",
+    "category": "shopping",
+    "lat": 38.0523681,
+    "lon": -78.5015785,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093103140",
+    "name": "JoS. A. Bank",
+    "category": "shopping",
+    "lat": 38.0526691,
+    "lon": -78.5014016,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093103187",
+    "name": "Anthropologie",
+    "category": "shopping",
+    "lat": 38.0536073,
+    "lon": -78.4988752,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093103189",
+    "name": "J. McLaughlin",
+    "category": "shopping",
+    "lat": 38.0542196,
+    "lon": -78.4995668,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093103194",
+    "name": "Beecroft & Bull",
+    "category": "shopping",
+    "lat": 38.0543173,
+    "lon": -78.4996865,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3093103204",
+    "name": "Peter Chang's China Grill",
+    "category": "food",
+    "lat": 38.055174,
+    "lon": -78.500593,
+    "address": "2162 Barracks Road"
+  },
+  {
+    "id": "osm-node-3093117592",
+    "name": "El Puerto Mexican Restaurant",
+    "category": "food",
+    "lat": 38.0514145,
+    "lon": -78.4988583,
+    "address": "2045 Barracks Road"
+  },
+  {
+    "id": "osm-node-3101284666",
+    "name": "Lazy Parrot Backyard BBQ",
+    "category": "food",
+    "lat": 38.0314821,
+    "lon": -78.4559838,
+    "address": "594 Pantops Center"
+  },
+  {
+    "id": "osm-node-3101284680",
+    "name": "Uniform Country",
+    "category": "shopping",
+    "lat": 38.0324584,
+    "lon": -78.4581852,
+    "address": "350 Pantops Center"
+  },
+  {
+    "id": "osm-node-3101284685",
+    "name": "Mi Casita",
+    "category": "food",
+    "lat": 38.0327145,
+    "lon": -78.4578282,
+    "address": "312 Pantops Center"
+  },
+  {
+    "id": "osm-node-3101284688",
+    "name": "The Donut Kitchen",
+    "category": "drinks",
+    "lat": 38.0328432,
+    "lon": -78.4575971,
+    "address": "300 Pantops Center"
+  },
+  {
+    "id": "osm-node-3119582874",
+    "name": "Noodles & Company",
+    "category": "food",
+    "lat": 38.0641853,
+    "lon": -78.4916476,
+    "address": "2035 Bond Street"
+  },
+  {
+    "id": "osm-node-3119582876",
+    "name": "Burton's Grill and Bar of Charlottesville",
+    "category": "food",
+    "lat": 38.0642175,
+    "lon": -78.490338,
+    "address": "2010 Bond Street"
+  },
+  {
+    "id": "osm-node-3200840897",
+    "name": "Domino's",
+    "category": "food",
+    "lat": 38.0536317,
+    "lon": -78.5020904,
+    "address": "1137 Millmont Street"
+  },
+  {
+    "id": "osm-node-3200840903",
+    "name": "Chang Thai Cville",
+    "category": "food",
+    "lat": 38.053725,
+    "lon": -78.497926,
+    "address": "1232 Emmet Street North"
+  },
+  {
+    "id": "osm-node-3205107184",
+    "name": "Chipotle",
+    "category": "food",
+    "lat": 38.0349417,
+    "lon": -78.5004426,
+    "address": "1511 University Avenue"
+  },
+  {
+    "id": "osm-node-3207831073",
+    "name": "Papa John's",
+    "category": "food",
+    "lat": 38.036491,
+    "lon": -78.462056,
+    "address": "1305 Long Street"
+  },
+  {
+    "id": "osm-node-3327769594",
+    "name": "Roots Natural Kitchen",
+    "category": "food",
+    "lat": 38.033905,
+    "lon": -78.499147,
+    "address": "1329 West Main Street"
+  },
+  {
+    "id": "osm-node-3455072148",
+    "name": "The Castle",
+    "category": "food",
+    "lat": 38.0356976,
+    "lon": -78.510543,
+    "address": "10 Bonnycastle Drive"
+  },
+  {
+    "id": "osm-node-3499497265",
+    "name": "West Range Cafe",
+    "category": "drinks",
+    "lat": 38.0343256,
+    "lon": -78.5054782,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3855933557",
+    "name": "Royalty Eats",
+    "category": "food",
+    "lat": 38.028446,
+    "lon": -78.494224,
+    "address": "820 Cherry Avenue"
+  },
+  {
+    "id": "osm-node-3855933563",
+    "name": "Little Manila Resto",
+    "category": "food",
+    "lat": 38.0283099,
+    "lon": -78.4937603,
+    "address": "816 Cherry Avenue"
+  },
+  {
+    "id": "osm-node-3855985767",
+    "name": "New York Fashions",
+    "category": "shopping",
+    "lat": 38.0276259,
+    "lon": -78.4910827,
+    "address": ""
+  },
+  {
+    "id": "osm-node-3885578393",
+    "name": "Belle Coffee & Wine",
+    "category": "drinks",
+    "lat": 38.0248214,
+    "lon": -78.4753582,
+    "address": "407 Monticello Road"
+  },
+  {
+    "id": "osm-node-3887187276",
+    "name": "Red Lantern",
+    "category": "food",
+    "lat": 38.023214,
+    "lon": -78.47037,
+    "address": "221 Carlton Road"
+  },
+  {
+    "id": "osm-node-3888561113",
+    "name": "Neon Soul",
+    "category": "shopping",
+    "lat": 38.0293453,
+    "lon": -78.4825134,
+    "address": "100 South Street West"
+  },
+  {
+    "id": "osm-node-3891823089",
+    "name": "Plaza Azteca",
+    "category": "food",
+    "lat": 38.0663688,
+    "lon": -78.4867528,
+    "address": "101 Seminole Court"
+  },
+  {
+    "id": "osm-node-3893005455",
+    "name": "Christian's Pizza",
+    "category": "food",
+    "lat": 38.03089,
+    "lon": -78.482203,
+    "address": "118 West Main Street"
+  },
+  {
+    "id": "osm-node-3893014158",
+    "name": "Darling Consignment Boutique",
+    "category": "shopping",
+    "lat": 38.0305602,
+    "lon": -78.4817008,
+    "address": "105 1st Street South"
+  },
+  {
+    "id": "osm-node-3893014159",
+    "name": "Grit Coffee",
+    "category": "drinks",
+    "lat": 38.030765,
+    "lon": -78.482065,
+    "address": "112 West Main Street"
+  },
+  {
+    "id": "osm-node-3893014160",
+    "name": "Jean Theory",
+    "category": "shopping",
+    "lat": 38.0301797,
+    "lon": -78.4819443,
+    "address": "101 Water Street West"
+  },
+  {
+    "id": "osm-node-3893014170",
+    "name": "Darling and Dashing",
+    "category": "shopping",
+    "lat": 38.0302603,
+    "lon": -78.4818645,
+    "address": "115 1st Street South"
+  },
+  {
+    "id": "osm-node-3893014172",
+    "name": "The Alley Light",
+    "category": "food",
+    "lat": 38.0305259,
+    "lon": -78.482392,
+    "address": "108 2nd Street Southwest"
+  },
+  {
+    "id": "osm-node-3893014176",
+    "name": "Arsenic and Old Lace",
+    "category": "shopping",
+    "lat": 38.0303628,
+    "lon": -78.4818194,
+    "address": "105 1st Street South"
+  },
+  {
+    "id": "osm-node-3893064866",
+    "name": "BitterSweet Clothing & Accessories",
+    "category": "shopping",
+    "lat": 38.0306129,
+    "lon": -78.4813076,
+    "address": "106 East Main Street"
+  },
+  {
+    "id": "osm-node-3893064877",
+    "name": "Live Arts Theatre",
+    "category": "culture",
+    "lat": 38.0299349,
+    "lon": -78.4811773,
+    "address": "123 Water Street East"
+  },
+  {
+    "id": "osm-node-3893064885",
+    "name": "Vita Nova Pizza & Pasta Bar",
+    "category": "food",
+    "lat": 38.030255,
+    "lon": -78.479316,
+    "address": "310 East Main Street"
+  },
+  {
+    "id": "osm-node-3894472535",
+    "name": "Tilman's",
+    "category": "drinks",
+    "lat": 38.029903,
+    "lon": -78.4790626,
+    "address": "406 East Main Street"
+  },
+  {
+    "id": "osm-node-3894472539",
+    "name": "Twisted Branch Tea Bazaar",
+    "category": "exploring",
+    "lat": 38.0298556,
+    "lon": -78.4789267,
+    "address": "414 East Main Street"
+  },
+  {
+    "id": "osm-node-3894487062",
+    "name": "Arts of the Albemarle",
+    "category": "culture",
+    "lat": 38.0295937,
+    "lon": -78.4780557,
+    "address": "516 East Main Street"
+  },
+  {
+    "id": "osm-node-3894487063",
+    "name": "Baggby's Gourmet Sandwiches",
+    "category": "food",
+    "lat": 38.0296183,
+    "lon": -78.4781342,
+    "address": "512 East Main Street"
+  },
+  {
+    "id": "osm-node-3894487065",
+    "name": "Himalayan Fusion",
+    "category": "food",
+    "lat": 38.029567,
+    "lon": -78.477974,
+    "address": "520 East Main Street"
+  },
+  {
+    "id": "osm-node-3894506448",
+    "name": "The Beautiful Idea",
+    "category": "books",
+    "lat": 38.0300931,
+    "lon": -78.4788997,
+    "address": "411 East Main Street"
+  },
+  {
+    "id": "osm-node-3894506452",
+    "name": "Lazeez",
+    "category": "food",
+    "lat": 38.0301678,
+    "lon": -78.4791134,
+    "address": "401 East Main Street"
+  },
+  {
+    "id": "osm-node-3894506454",
+    "name": "The Pie Chest",
+    "category": "bakery",
+    "lat": 38.0306903,
+    "lon": -78.4790572,
+    "address": "119 4th Street Northeast"
+  },
+  {
+    "id": "osm-node-3894519555",
+    "name": "Petit Pois",
+    "category": "food",
+    "lat": 38.030801,
+    "lon": -78.480493,
+    "address": "201 East Main Street"
+  },
+  {
+    "id": "osm-node-3894519556",
+    "name": "The Hip Joint",
+    "category": "shopping",
+    "lat": 38.0309393,
+    "lon": -78.4805057,
+    "address": "110 2nd Street Northeast"
+  },
+  {
+    "id": "osm-node-3894520058",
+    "name": "Zocalo",
+    "category": "food",
+    "lat": 38.030766,
+    "lon": -78.480389,
+    "address": "201 East Main Street"
+  },
+  {
+    "id": "osm-node-3894530755",
+    "name": "Bizou",
+    "category": "food",
+    "lat": 38.031072,
+    "lon": -78.482061,
+    "address": "119 West Main Street"
+  },
+  {
+    "id": "osm-node-3894530756",
+    "name": "The Bebedero",
+    "category": "food",
+    "lat": 38.0311414,
+    "lon": -78.4822809,
+    "address": "225 West Main Street"
+  },
+  {
+    "id": "osm-node-3894530760",
+    "name": "The Consignment House",
+    "category": "shopping",
+    "lat": 38.0310857,
+    "lon": -78.4821175,
+    "address": "121 West Main Street"
+  },
+  {
+    "id": "osm-node-3894530762",
+    "name": "The Whiskey Jar",
+    "category": "food",
+    "lat": 38.0313598,
+    "lon": -78.4828246,
+    "address": "225 West Main Street"
+  },
+  {
+    "id": "osm-node-3928062057",
+    "name": "Maya Restaurant",
+    "category": "food",
+    "lat": 38.0314992,
+    "lon": -78.4895529,
+    "address": "633 West Main Street"
+  },
+  {
+    "id": "osm-node-3993304244",
+    "name": "High Tor Gear Exchange",
+    "category": "shopping",
+    "lat": 38.0409639,
+    "lon": -78.4782546,
+    "address": "1717 Allied Street"
+  },
+  {
+    "id": "osm-node-3993304247",
+    "name": "Cafe 88",
+    "category": "food",
+    "lat": 38.03885,
+    "lon": -78.489919,
+    "address": "923 Preston Avenue"
+  },
+  {
+    "id": "osm-node-3993304248",
+    "name": "Carpe Donut",
+    "category": "bakery",
+    "lat": 38.0413446,
+    "lon": -78.4778329,
+    "address": "1715 Allied Lane"
+  },
+  {
+    "id": "osm-node-3993304365",
+    "name": "Great Harvest Bread Company",
+    "category": "bakery",
+    "lat": 38.041265,
+    "lon": -78.4773115,
+    "address": "1701 Allied Lane"
+  },
+  {
+    "id": "osm-node-3993304373",
+    "name": "El Ciruelo",
+    "category": "food",
+    "lat": 38.041302,
+    "lon": -78.477527,
+    "address": "1703 Allied Lane"
+  },
+  {
+    "id": "osm-node-3993304388",
+    "name": "Shenandoah Joe Coffee Roaster",
+    "category": "drinks",
+    "lat": 38.039222,
+    "lon": -78.490729,
+    "address": "945 Preston Avenue"
+  },
+  {
+    "id": "osm-node-3994615705",
+    "name": "Moge Tee",
+    "category": "food",
+    "lat": 38.03463,
+    "lon": -78.499425,
+    "address": "109 14th Street Northwest"
+  },
+  {
+    "id": "osm-node-3994615709",
+    "name": "Lemongrass",
+    "category": "food",
+    "lat": 38.0345726,
+    "lon": -78.4991709,
+    "address": "104 14th Street Northwest"
+  },
+  {
+    "id": "osm-node-4141777189",
+    "name": "Guadalajara Mexican Restaurant",
+    "category": "food",
+    "lat": 38.0704463,
+    "lon": -78.4855714,
+    "address": "395 Greenbrier Drive"
+  },
+  {
+    "id": "osm-node-4555908188",
+    "name": "Burger King",
+    "category": "food",
+    "lat": 38.064868,
+    "lon": -78.4881421,
+    "address": "1025 Seminole Trail"
+  },
+  {
+    "id": "osm-node-4555908290",
+    "name": "Seoul Korean BBQ and Hotpot",
+    "category": "food",
+    "lat": 38.063499,
+    "lon": -78.489614,
+    "address": "100 Zan Road"
+  },
+  {
+    "id": "osm-node-5139964514",
+    "name": "Iron Paffles & Coffee",
+    "category": "drinks",
+    "lat": 38.0303744,
+    "lon": -78.4832501,
+    "address": "214 West Water Street"
+  },
+  {
+    "id": "osm-node-5521229636",
+    "name": "Mezeh Mediterranean Grill",
+    "category": "food",
+    "lat": 38.0640239,
+    "lon": -78.4912071,
+    "address": "2015 Bond Street"
+  },
+  {
+    "id": "osm-node-5521229638",
+    "name": "Matchbox",
+    "category": "food",
+    "lat": 38.0649278,
+    "lon": -78.4923926,
+    "address": "2055 Bond Street"
+  },
+  {
+    "id": "osm-node-5521229640",
+    "name": "Duck Donuts",
+    "category": "drinks",
+    "lat": 38.065348,
+    "lon": -78.4928097,
+    "address": ""
+  },
+  {
+    "id": "osm-node-5521229765",
+    "name": "Lilly Pulitzer",
+    "category": "shopping",
+    "lat": 38.0544972,
+    "lon": -78.4998666,
+    "address": ""
+  },
+  {
+    "id": "osm-node-5521229767",
+    "name": "Peneople",
+    "category": "shopping",
+    "lat": 38.0546482,
+    "lon": -78.4999926,
+    "address": ""
+  },
+  {
+    "id": "osm-node-5521229780",
+    "name": "Spring Street",
+    "category": "shopping",
+    "lat": 38.0517678,
+    "lon": -78.5024676,
+    "address": ""
+  },
+  {
+    "id": "osm-node-5521229781",
+    "name": "Smoothie King",
+    "category": "food",
+    "lat": 38.0497903,
+    "lon": -78.5028646,
+    "address": "973 Emmet Street North"
+  },
+  {
+    "id": "osm-node-5768259047",
+    "name": "The Melting Pot",
+    "category": "food",
+    "lat": 38.0292135,
+    "lon": -78.4786073,
+    "address": "501 East Water Street"
+  },
+  {
+    "id": "osm-node-5973094426",
+    "name": "BJ's",
+    "category": "food",
+    "lat": 38.0670321,
+    "lon": -78.4879677,
+    "address": "3924 Lenox Avenue"
+  },
+  {
+    "id": "osm-node-6176835631",
+    "name": "The Ridley",
+    "category": "food",
+    "lat": 38.0327513,
+    "lon": -78.4961778,
+    "address": "1106 West Main Street"
+  },
+  {
+    "id": "osm-node-6302700649",
+    "name": "Dave's Hot Chicken",
+    "category": "food",
+    "lat": 38.0105321,
+    "lon": -78.4981336,
+    "address": "435 Merchant Walk Square"
+  },
+  {
+    "id": "osm-node-6302700657",
+    "name": "Chimm",
+    "category": "food",
+    "lat": 38.0117317,
+    "lon": -78.5000229,
+    "address": "365 Merchant Walk Square"
+  },
+  {
+    "id": "osm-node-6302700658",
+    "name": "Mochiko",
+    "category": "food",
+    "lat": 38.0118063,
+    "lon": -78.5001066,
+    "address": "365 Merchant Walk Square"
+  },
+  {
+    "id": "osm-node-6302700662",
+    "name": "Extreme Pizza",
+    "category": "food",
+    "lat": 38.011443,
+    "lon": -78.5002711,
+    "address": "355 Merchant Walk Square"
+  },
+  {
+    "id": "osm-node-6302700666",
+    "name": "Timberwood Tap House",
+    "category": "food",
+    "lat": 38.0103954,
+    "lon": -78.4997512,
+    "address": "245 Merchant Walk Avenue"
+  },
+  {
+    "id": "osm-node-6302700670",
+    "name": "Jersey Mike's Subs",
+    "category": "food",
+    "lat": 38.010387,
+    "lon": -78.4988342,
+    "address": "265 Merchant Walk Avenue"
+  },
+  {
+    "id": "osm-node-6332197274",
+    "name": "Brooks Brothers",
+    "category": "shopping",
+    "lat": 38.0647147,
+    "lon": -78.4921391,
+    "address": ""
+  },
+  {
+    "id": "osm-node-6332197275",
+    "name": "Burger Bach",
+    "category": "food",
+    "lat": 38.0652696,
+    "lon": -78.4922637,
+    "address": ""
+  },
+  {
+    "id": "osm-node-6561544027",
+    "name": "Brazos Tacos",
+    "category": "food",
+    "lat": 38.024824,
+    "lon": -78.483112,
+    "address": "925 2nd Street Southeast"
+  },
+  {
+    "id": "osm-node-6879654685",
+    "name": "Subway",
+    "category": "food",
+    "lat": 38.0357076,
+    "lon": -78.5067754,
+    "address": ""
+  },
+  {
+    "id": "osm-node-6879654785",
+    "name": "Bento Sushi",
+    "category": "food",
+    "lat": 38.0356866,
+    "lon": -78.5067041,
+    "address": ""
+  },
+  {
+    "id": "osm-node-6879655085",
+    "name": "Chick-fil-A",
+    "category": "food",
+    "lat": 38.0358406,
+    "lon": -78.5066333,
+    "address": ""
+  },
+  {
+    "id": "osm-node-6947084186",
+    "name": "Lighthouse Studio at Vinegar Hill Theatre",
+    "category": "culture",
+    "lat": 38.0321058,
+    "lon": -78.4830559,
+    "address": "220 Market Street"
+  },
+  {
+    "id": "osm-node-6977920272",
+    "name": "Einstein Bros. Bagels",
+    "category": "food",
+    "lat": 38.0317528,
+    "lon": -78.5108897,
+    "address": "85 Engineers Way"
+  },
+  {
+    "id": "osm-node-7982398901",
+    "name": "Fry's Spring Beach Club",
+    "category": "outdoors",
+    "lat": 38.0178972,
+    "lon": -78.5142939,
+    "address": ""
+  },
+  {
+    "id": "osm-node-8105242674",
+    "name": "Starbucks",
+    "category": "drinks",
+    "lat": 38.0098013,
+    "lon": -78.505479,
+    "address": "601 5th Street"
+  },
+  {
+    "id": "osm-node-8148165917",
+    "name": "Kuma Sushi Noodles & Bar",
+    "category": "food",
+    "lat": 38.036184,
+    "lon": -78.500246,
+    "address": "12 Elliewood Avenue"
+  },
+  {
+    "id": "osm-node-8148847917",
+    "name": "Lone Light Coffee",
+    "category": "drinks",
+    "lat": 38.030676,
+    "lon": -78.479061,
+    "address": "119 4th Street Northeast"
+  },
+  {
+    "id": "osm-node-8172349877",
+    "name": "Blue Whale Books",
+    "category": "books",
+    "lat": 38.031062,
+    "lon": -78.4820234,
+    "address": "115 West Main Street"
+  },
+  {
+    "id": "osm-node-8172365687",
+    "name": "Gingko Bookshop",
+    "category": "books",
+    "lat": 38.0358388,
+    "lon": -78.5004725,
+    "address": "5 Elliewood Avenue"
+  },
+  {
+    "id": "osm-node-8942441849",
+    "name": "Arthur J. Morris Law Library",
+    "category": "books",
+    "lat": 38.0531671,
+    "lon": -78.5091802,
+    "address": "580 Massie Road"
+  },
+  {
+    "id": "osm-node-9102027932",
+    "name": "DOMA",
+    "category": "food",
+    "lat": 38.0315504,
+    "lon": -78.4897614,
+    "address": "701 West Main Street"
+  },
+  {
+    "id": "osm-node-9294621453",
+    "name": "Kanak Indian Restaurant",
+    "category": "food",
+    "lat": 38.0117997,
+    "lon": -78.4988632,
+    "address": "385 Merchant Walk Square"
+  },
+  {
+    "id": "osm-node-9294621502",
+    "name": "Subway",
+    "category": "food",
+    "lat": 38.012871,
+    "lon": -78.5033871,
+    "address": "1141 5th Street Southwest"
+  },
+  {
+    "id": "osm-node-9685605548",
+    "name": "7 Days Jr. Deli & Bar",
+    "category": "food",
+    "lat": 38.034394,
+    "lon": -78.4992748,
+    "address": "104 14th Street Northwest"
+  },
+  {
+    "id": "osm-node-9807472495",
+    "name": "CAVA",
+    "category": "food",
+    "lat": 38.052682,
+    "lon": -78.498603,
+    "address": "1200 Emmet Street North"
+  },
+  {
+    "id": "osm-node-9807492922",
+    "name": "American Eagle Outfitters",
+    "category": "shopping",
+    "lat": 38.0492554,
+    "lon": -78.5044579,
+    "address": ""
+  },
+  {
+    "id": "osm-node-9807512445",
+    "name": "Starbucks",
+    "category": "drinks",
+    "lat": 38.0328388,
+    "lon": -78.4948356,
+    "address": "1001 West Main Street"
+  },
+  {
+    "id": "osm-node-9856328698",
+    "name": "Jefferson School African American Heritage Center",
+    "category": "culture",
+    "lat": 38.0317153,
+    "lon": -78.4870444,
+    "address": "233 4th Street Northwest"
+  },
+  {
+    "id": "osm-node-9895096917",
+    "name": "Akira Level Sushi & Ramen",
+    "category": "food",
+    "lat": 38.0681534,
+    "lon": -78.4879946,
+    "address": "3912 Lenox Avenue"
+  },
+  {
+    "id": "osm-node-9895127387",
+    "name": "Torchy's Tacos",
+    "category": "food",
+    "lat": 38.063861,
+    "lon": -78.4922929,
+    "address": "1951 Swanson Drive"
+  },
+  {
+    "id": "osm-node-9895127388",
+    "name": "Mission BBQ",
+    "category": "food",
+    "lat": 38.0679927,
+    "lon": -78.4881308,
+    "address": "3912 Lenox Avenue"
+  },
+  {
+    "id": "osm-node-9980004115",
+    "name": "Canipe Brothers Bar & Grill",
+    "category": "food",
+    "lat": 38.05962,
+    "lon": -78.494662,
+    "address": "2104 Angus Road"
+  },
+  {
+    "id": "osm-node-9980010417",
+    "name": "Popeyes",
+    "category": "food",
+    "lat": 38.0595254,
+    "lon": -78.4940322,
+    "address": "1709 Emmet Street North"
+  },
+  {
+    "id": "osm-node-10261529218",
+    "name": "Starbucks",
+    "category": "drinks",
+    "lat": 38.0355158,
+    "lon": -78.5008908,
+    "address": "1601 University Avenue"
+  },
+  {
+    "id": "osm-node-10261529219",
+    "name": "Take It Away",
+    "category": "food",
+    "lat": 38.0357185,
+    "lon": -78.5007669,
+    "address": "115 Elliewood Avenue"
+  },
+  {
+    "id": "osm-node-10261535114",
+    "name": "Poke Sushi Bowl",
+    "category": "food",
+    "lat": 38.034437,
+    "lon": -78.499537,
+    "address": "101 14th Street Northwest"
+  },
+  {
+    "id": "osm-node-10261535115",
+    "name": "Insomnia Cookies",
+    "category": "bakery",
+    "lat": 38.0343144,
+    "lon": -78.4998251,
+    "address": "1409 University Avenue"
+  },
+  {
+    "id": "osm-node-10261535118",
+    "name": "Corner Juice",
+    "category": "food",
+    "lat": 38.034877,
+    "lon": -78.500397,
+    "address": "1509 University Avenue"
+  },
+  {
+    "id": "osm-node-10304868491",
+    "name": "Q Noodles",
+    "category": "food",
+    "lat": 38.032885,
+    "lon": -78.495077,
+    "address": "1001 West Main Street"
+  },
+  {
+    "id": "osm-node-10608571184",
+    "name": "Brightside Beach Pub",
+    "category": "food",
+    "lat": 38.031308,
+    "lon": -78.482771,
+    "address": "225 West Main Street"
+  },
+  {
+    "id": "osm-node-10699983754",
+    "name": "Farm Bell Kitchen",
+    "category": "food",
+    "lat": 38.033283,
+    "lon": -78.4971606,
+    "address": "1209 West Main Street"
+  },
+  {
+    "id": "osm-node-10705064137",
+    "name": "Bad Luck Ramen",
+    "category": "food",
+    "lat": 38.025962,
+    "lon": -78.48209,
+    "address": "522 2nd Street Southeast"
+  },
+  {
+    "id": "osm-node-10754512046",
+    "name": "JCrew Factory",
+    "category": "shopping",
+    "lat": 38.0491766,
+    "lon": -78.5043444,
+    "address": ""
+  },
+  {
+    "id": "osm-node-10773946589",
+    "name": "Minerals & Mystics",
+    "category": "shopping",
+    "lat": 38.0652938,
+    "lon": -78.4854055,
+    "address": "167 Seminole Court"
+  },
+  {
+    "id": "osm-node-10773946591",
+    "name": "M Sushi",
+    "category": "food",
+    "lat": 38.0651776,
+    "lon": -78.4852312,
+    "address": "171 Seminole Court"
+  },
+  {
+    "id": "osm-node-10776662429",
+    "name": "Telegraph Art & Comics",
+    "category": "books",
+    "lat": 38.0647021,
+    "lon": -78.4879962,
+    "address": "398 Hillsdale Drive"
+  },
+  {
+    "id": "osm-node-10776662437",
+    "name": "Kid to Kid",
+    "category": "shopping",
+    "lat": 38.0641543,
+    "lon": -78.4884043,
+    "address": "370 Hillsdale Drive"
+  },
+  {
+    "id": "osm-node-10776662438",
+    "name": "Uptown Cheapskate",
+    "category": "shopping",
+    "lat": 38.0642408,
+    "lon": -78.4885611,
+    "address": "374 Hillsdale Drive"
+  },
+  {
+    "id": "osm-node-10776662439",
+    "name": "Maharaja Indian Cuisine",
+    "category": "food",
+    "lat": 38.0643064,
+    "lon": -78.4886856,
+    "address": "378 Hillsdale Drive"
+  },
+  {
+    "id": "osm-node-10778798449",
+    "name": "Marco & Luca Dumplings",
+    "category": "food",
+    "lat": 38.0631,
+    "lon": -78.489037,
+    "address": "176 Zan Road"
+  },
+  {
+    "id": "osm-node-10778798450",
+    "name": "Edible Arrangements",
+    "category": "shopping",
+    "lat": 38.0631081,
+    "lon": -78.4889642,
+    "address": "180 Zan Road"
+  },
+  {
+    "id": "osm-node-10916644260",
+    "name": "Christian's Pizza",
+    "category": "food",
+    "lat": 38.0096844,
+    "lon": -78.5058015,
+    "address": ""
+  },
+  {
+    "id": "osm-node-10925344580",
+    "name": "Belmont Arts Collaborative",
+    "category": "culture",
+    "lat": 38.0240408,
+    "lon": -78.4697238,
+    "address": "221 Carlton Rd"
+  },
+  {
+    "id": "osm-node-10928885627",
+    "name": "DMR Adventures",
+    "category": "culture",
+    "lat": 38.0240087,
+    "lon": -78.4697465,
+    "address": "221 Carlton Rd"
+  },
+  {
+    "id": "osm-node-10928885628",
+    "name": "Found. Market",
+    "category": "bakery",
+    "lat": 38.0238291,
+    "lon": -78.4698645,
+    "address": "221 Carlton Road"
+  },
+  {
+    "id": "osm-node-11018956305",
+    "name": "Otto",
+    "category": "food",
+    "lat": 38.0303406,
+    "lon": -78.4824757,
+    "address": "111 Water Street West"
+  },
+  {
+    "id": "osm-node-11591939593",
+    "name": "Give & Take Coffee",
+    "category": "drinks",
+    "lat": 38.0304257,
+    "lon": -78.4870891,
+    "address": "416 W Main Street"
+  },
+  {
+    "id": "osm-node-11649758429",
+    "name": "Starbucks",
+    "category": "drinks",
+    "lat": 38.0354987,
+    "lon": -78.5068048,
+    "address": "180 McCormick Road"
+  },
+  {
+    "id": "osm-node-11828709732",
+    "name": "Corner Juice",
+    "category": "food",
+    "lat": 38.030559,
+    "lon": -78.480373,
+    "address": "201 East Main Street"
+  },
+  {
+    "id": "osm-node-11899105726",
+    "name": "Quattro Tizi",
+    "category": "shopping",
+    "lat": 38.0382323,
+    "lon": -78.4914651,
+    "address": ""
+  },
+  {
+    "id": "osm-node-11899125278",
+    "name": "Twice is Nice 2 Twice",
+    "category": "shopping",
+    "lat": 38.0374577,
+    "lon": -78.4897904,
+    "address": "918 Preston Avenue"
+  },
+  {
+    "id": "osm-node-11899235898",
+    "name": "Lampo2Go",
+    "category": "food",
+    "lat": 38.0247243,
+    "lon": -78.4830285,
+    "address": "929 2nd Street Southeast"
+  },
+  {
+    "id": "osm-node-11899526764",
+    "name": "Petite Marie Bette",
+    "category": "bakery",
+    "lat": 38.0300755,
+    "lon": -78.4816216,
+    "address": ""
+  },
+  {
+    "id": "osm-node-11902369837",
+    "name": "Domoishi",
+    "category": "food",
+    "lat": 38.0323338,
+    "lon": -78.4930931,
+    "address": "853 West Main Street"
+  },
+  {
+    "id": "osm-node-11902369843",
+    "name": "Raising Cane's",
+    "category": "food",
+    "lat": 38.035193,
+    "lon": -78.50064,
+    "address": "1519 University Avenue"
+  },
+  {
+    "id": "osm-node-11902369844",
+    "name": "Mincer's",
+    "category": "shopping",
+    "lat": 38.0353233,
+    "lon": -78.5007544,
+    "address": "1527 University Avenue"
+  },
+  {
+    "id": "osm-node-11902384145",
+    "name": "Cake Bloom",
+    "category": "bakery",
+    "lat": 38.0333097,
+    "lon": -78.4938589,
+    "address": "120 10th Street Northwest"
+  },
+  {
+    "id": "osm-node-11902384146",
+    "name": "Dillishus Fish & Chik'n",
+    "category": "food",
+    "lat": 38.0317825,
+    "lon": -78.4904908,
+    "address": "719 West Main Street"
+  },
+  {
+    "id": "osm-node-11902446561",
+    "name": "Pico Wrap",
+    "category": "food",
+    "lat": 38.044927,
+    "lon": -78.5171653,
+    "address": "2214 Ivy Road"
+  },
+  {
+    "id": "osm-node-11902446562",
+    "name": "Shenandoah Joe",
+    "category": "drinks",
+    "lat": 38.0448858,
+    "lon": -78.5170021,
+    "address": ""
+  },
+  {
+    "id": "osm-node-11902513798",
+    "name": "Ivy Provisions",
+    "category": "food",
+    "lat": 38.0442036,
+    "lon": -78.5147701,
+    "address": "2206 Ivy Road"
+  },
+  {
+    "id": "osm-node-11902527669",
+    "name": "MarieBette Café and Bakery",
+    "category": "drinks",
+    "lat": 38.0375776,
+    "lon": -78.4876834,
+    "address": "700 Rose Hill Drive"
+  },
+  {
+    "id": "osm-node-11902531982",
+    "name": "Inka Grill",
+    "category": "food",
+    "lat": 38.034507,
+    "lon": -78.499497,
+    "address": "105 14th Street Northwest"
+  },
+  {
+    "id": "osm-node-11908119684",
+    "name": "SK Coffee & Co",
+    "category": "drinks",
+    "lat": 38.0339874,
+    "lon": -78.4988788,
+    "address": "1325 West Main Street"
+  },
+  {
+    "id": "osm-node-11908119687",
+    "name": "Thyme and Co",
+    "category": "food",
+    "lat": 38.034284,
+    "lon": -78.499096,
+    "address": "104 14th Street Northwest"
+  },
+  {
+    "id": "osm-node-11908119689",
+    "name": "Crozet Pizza at Buddhist Biker Bar",
+    "category": "food",
+    "lat": 38.036656,
+    "lon": -78.500406,
+    "address": "20 Elliewood Avenue"
+  },
+  {
+    "id": "osm-node-11915960169",
+    "name": "Cou Cou Rachou",
+    "category": "bakery",
+    "lat": 38.0385164,
+    "lon": -78.4895887,
+    "address": "917 Preston Avenue"
+  },
+  {
+    "id": "osm-node-11916436969",
+    "name": "Inka Grill",
+    "category": "food",
+    "lat": 38.0118242,
+    "lon": -78.5002017,
+    "address": ""
+  },
+  {
+    "id": "osm-node-11997823902",
+    "name": "Silk Thai",
+    "category": "food",
+    "lat": 38.025629,
+    "lon": -78.516285,
+    "address": "2210 Fontaine Avenue"
+  },
+  {
+    "id": "osm-node-11999821741",
+    "name": "Sedona Taphouse",
+    "category": "food",
+    "lat": 38.050998,
+    "lon": -78.505618,
+    "address": "1035 Millmont Street"
+  },
+  {
+    "id": "osm-node-11999821754",
+    "name": "First Watch",
+    "category": "food",
+    "lat": 38.051382,
+    "lon": -78.501314,
+    "address": "1114 Emmet Street North"
+  },
+  {
+    "id": "osm-node-12008940997",
+    "name": "Al Carbon",
+    "category": "food",
+    "lat": 38.0117322,
+    "lon": -78.4998983,
+    "address": "365 Merchant Walk Square"
+  },
+  {
+    "id": "osm-node-12029992517",
+    "name": "Bar Tomas",
+    "category": "food",
+    "lat": 38.026886,
+    "lon": -78.477381,
+    "address": "309 Avon Street"
+  },
+  {
+    "id": "osm-node-12031014569",
+    "name": "Monsoon Siam",
+    "category": "food",
+    "lat": 38.031841,
+    "lon": -78.481715,
+    "address": "113 West Market Street"
+  },
+  {
+    "id": "osm-node-12092488624",
+    "name": "Pineapples Thai Kitchen",
+    "category": "food",
+    "lat": 38.035723,
+    "lon": -78.487986,
+    "address": "722 Preston Avenue"
+  },
+  {
+    "id": "osm-node-12092510978",
+    "name": "Basta Pasta",
+    "category": "food",
+    "lat": 38.0381201,
+    "lon": -78.4915216,
+    "address": ""
+  },
+  {
+    "id": "osm-node-12092510979",
+    "name": "I Am Thai",
+    "category": "food",
+    "lat": 38.037948,
+    "lon": -78.49098,
+    "address": "946 Grady Avenue"
+  },
+  {
+    "id": "osm-node-12092510981",
+    "name": "Dino's Wood-Fired Pizza and Grill",
+    "category": "food",
+    "lat": 38.03803,
+    "lon": -78.491013,
+    "address": "946 Grady Avenue"
+  },
+  {
+    "id": "osm-node-12092510982",
+    "name": "Currylicious",
+    "category": "food",
+    "lat": 38.0378747,
+    "lon": -78.4910299,
+    "address": ""
+  },
+  {
+    "id": "osm-node-12092510983",
+    "name": "Krissy Cakes",
+    "category": "bakery",
+    "lat": 38.0380491,
+    "lon": -78.4914145,
+    "address": ""
+  },
+  {
+    "id": "osm-node-12092510984",
+    "name": "Maizal",
+    "category": "food",
+    "lat": 38.037921,
+    "lon": -78.491096,
+    "address": "946 Grady Avenue Street"
+  },
+  {
+    "id": "osm-node-12092510985",
+    "name": "Mashu Festival",
+    "category": "food",
+    "lat": 38.038019,
+    "lon": -78.49153,
+    "address": "946 Grady Avenue"
+  },
+  {
+    "id": "osm-node-12092539481",
+    "name": "Aromas Cafe and Catering",
+    "category": "food",
+    "lat": 38.0220773,
+    "lon": -78.5316869,
+    "address": ""
+  },
+  {
+    "id": "osm-node-12092559596",
+    "name": "Mashumen",
+    "category": "food",
+    "lat": 38.025667,
+    "lon": -78.516031,
+    "address": "2208 Fontaine Avenue"
+  },
+  {
+    "id": "osm-node-12102710890",
+    "name": "Luce",
+    "category": "food",
+    "lat": 38.031376,
+    "lon": -78.481967,
+    "address": "110 2nd Street Northwest"
+  },
+  {
+    "id": "osm-node-12102787115",
+    "name": "Future Coffee",
+    "category": "drinks",
+    "lat": 38.031341,
+    "lon": -78.471377,
+    "address": "406 10th Street Northeast"
+  },
+  {
+    "id": "osm-node-12102798127",
+    "name": "Barbie's Burrito Barn",
+    "category": "food",
+    "lat": 38.028131,
+    "lon": -78.477429,
+    "address": "201 Avon Street"
+  },
+  {
+    "id": "osm-node-12108796923",
+    "name": "Holly's Diner",
+    "category": "food",
+    "lat": 38.026648,
+    "lon": -78.467622,
+    "address": "1221 East Market Street"
+  },
+  {
+    "id": "osm-node-12117289705",
+    "name": "Mas Tapas",
+    "category": "food",
+    "lat": 38.024251,
+    "lon": -78.4743251,
+    "address": "904 Monticello Road"
+  },
+  {
+    "id": "osm-node-12117289721",
+    "name": "Conmole",
+    "category": "food",
+    "lat": 38.0246466,
+    "lon": -78.4757833,
+    "address": "816 Hinton Avenue"
+  },
+  {
+    "id": "osm-node-12117289722",
+    "name": "The Local Restaurant and Catering",
+    "category": "food",
+    "lat": 38.0244737,
+    "lon": -78.4755481,
+    "address": "824 Hinton Avenue"
+  },
+  {
+    "id": "osm-node-12117289723",
+    "name": "Tavola Restaurant",
+    "category": "food",
+    "lat": 38.0244301,
+    "lon": -78.475459,
+    "address": "826 Hinton Avenue"
+  },
+  {
+    "id": "osm-node-12117959537",
+    "name": "Sal's Caffe Italia",
+    "category": "food",
+    "lat": 38.030502,
+    "lon": -78.480154,
+    "address": "221 East Main Street"
+  },
+  {
+    "id": "osm-node-12117959539",
+    "name": "Ten",
+    "category": "food",
+    "lat": 38.030439,
+    "lon": -78.481031,
+    "address": "120 East Main Street"
+  },
+  {
+    "id": "osm-node-12117959541",
+    "name": "Revolutionary Soup",
+    "category": "food",
+    "lat": 38.030682,
+    "lon": -78.482325,
+    "address": "108 2nd Street Southwest"
+  },
+  {
+    "id": "osm-node-12117959542",
+    "name": "Mudhouse",
+    "category": "drinks",
+    "lat": 38.031236,
+    "lon": -78.482531,
+    "address": "213 West Main Street"
+  },
+  {
+    "id": "osm-node-12119277027",
+    "name": "Sultan Kebab",
+    "category": "food",
+    "lat": 38.02858,
+    "lon": -78.481308,
+    "address": "333 2nd Street Southeast"
+  },
+  {
+    "id": "osm-node-12125681940",
+    "name": "Guajiros Miami Eatery",
+    "category": "food",
+    "lat": 38.033249,
+    "lon": -78.494195,
+    "address": "114 10th Street Northwest"
+  },
+  {
+    "id": "osm-node-12125681941",
+    "name": "Mudhouse Coffee",
+    "category": "drinks",
+    "lat": 38.0333258,
+    "lon": -78.4939482,
+    "address": "116 10th Street Northwest"
+  },
+  {
+    "id": "osm-node-12128346527",
+    "name": "Ivy Stacks Reading Room",
+    "category": "books",
+    "lat": 38.0485409,
+    "lon": -78.5218698,
+    "address": ""
+  },
+  {
+    "id": "osm-node-12134539518",
+    "name": "Firefly",
+    "category": "food",
+    "lat": 38.025781,
+    "lon": -78.467113,
+    "address": "1304 East Market Street"
+  },
+  {
+    "id": "osm-node-12136187514",
+    "name": "Hamiltons' at First & Main",
+    "category": "food",
+    "lat": 38.030922,
+    "lon": -78.481532,
+    "address": "101 West Main Street"
+  },
+  {
+    "id": "osm-node-12136201072",
+    "name": "Oakhart Social Restaurant",
+    "category": "food",
+    "lat": 38.031281,
+    "lon": -78.488071,
+    "address": "511 West Main Street"
+  },
+  {
+    "id": "osm-node-12136201073",
+    "name": "Public Fish and Oyster",
+    "category": "food",
+    "lat": 38.031178,
+    "lon": -78.488213,
+    "address": "513 West Main Street"
+  },
+  {
+    "id": "osm-node-12157464250",
+    "name": "Papa John's",
+    "category": "food",
+    "lat": 38.044283,
+    "lon": -78.5135517,
+    "address": "2171 Ivy Road"
+  },
+  {
+    "id": "osm-node-12157464251",
+    "name": "Qdoba",
+    "category": "food",
+    "lat": 38.0673718,
+    "lon": -78.4886861,
+    "address": "3918 Lenox Avenue"
+  },
+  {
+    "id": "osm-node-12162413944",
+    "name": "Vivace Italian Ristorante",
+    "category": "food",
+    "lat": 38.0449947,
+    "lon": -78.5178659,
+    "address": "2244 Ivy Road"
+  },
+  {
+    "id": "osm-node-12164575769",
+    "name": "El Tio",
+    "category": "food",
+    "lat": 38.0440646,
+    "lon": -78.5129966,
+    "address": "2171 Ivy Road"
+  },
+  {
+    "id": "osm-node-12182836164",
+    "name": "Grit Coffee",
+    "category": "drinks",
+    "lat": 38.0317551,
+    "lon": -78.5050707,
+    "address": ""
+  },
+  {
+    "id": "osm-node-12187296370",
+    "name": "Charlottesville Center forthe Arts",
+    "category": "culture",
+    "lat": 38.0511881,
+    "lon": -78.528083,
+    "address": "2409 Ivy Road"
+  },
+  {
+    "id": "osm-node-12187362614",
+    "name": "Bang!",
+    "category": "food",
+    "lat": 38.029743,
+    "lon": -78.48305,
+    "address": "213 2nd Street Southwest"
+  },
+  {
+    "id": "osm-node-12187373119",
+    "name": "Tangerine's Kitchen",
+    "category": "food",
+    "lat": 38.0012659,
+    "lon": -78.4962703,
+    "address": "32 Mill Creek Drive"
+  },
+  {
+    "id": "osm-node-12187373228",
+    "name": "Pi-Napo Pizzeria",
+    "category": "food",
+    "lat": 38.02618,
+    "lon": -78.514925,
+    "address": "2115 Jefferson Park Avenue"
+  },
+  {
+    "id": "osm-node-12215132719",
+    "name": "Sbrocco's Donuts",
+    "category": "bakery",
+    "lat": 38.0267764,
+    "lon": -78.5159331,
+    "address": "115 Maury Avenue"
+  },
+  {
+    "id": "osm-node-12230226145",
+    "name": "Beijing Station",
+    "category": "food",
+    "lat": 38.0343334,
+    "lon": -78.4992618,
+    "address": "104 14th Street Northwest"
+  },
+  {
+    "id": "osm-node-12294986266",
+    "name": "Chopt",
+    "category": "food",
+    "lat": 38.0512379,
+    "lon": -78.5014514,
+    "address": "1114 Emmet Street North"
+  },
+  {
+    "id": "osm-node-12410103034",
+    "name": "Second Street Gallery",
+    "category": "culture",
+    "lat": 38.0299292,
+    "lon": -78.4811407,
+    "address": "115 2nd Street Southeast"
+  },
+  {
+    "id": "osm-node-12410112915",
+    "name": "Hello Comics Downtown",
+    "category": "books",
+    "lat": 38.0312102,
+    "lon": -78.4824834,
+    "address": "211 West Main Street"
+  },
+  {
+    "id": "osm-node-12460949551",
+    "name": "Now and Zen",
+    "category": "food",
+    "lat": 38.031999,
+    "lon": -78.481703,
+    "address": "202 2nd Street Northwest"
+  },
+  {
+    "id": "osm-node-12492581024",
+    "name": "Sticks Kebob Shop",
+    "category": "food",
+    "lat": 38.038404,
+    "lon": -78.489766,
+    "address": "917 Preston Avenue"
+  },
+  {
+    "id": "osm-node-12572264952",
+    "name": "Vu Noodles",
+    "category": "food",
+    "lat": 38.0306,
+    "lon": -78.481267,
+    "address": "111 Water Street East"
+  },
+  {
+    "id": "osm-node-12869852235",
+    "name": "Mockingbird",
+    "category": "food",
+    "lat": 38.024543,
+    "lon": -78.474985,
+    "address": "421 Monticello Road"
+  },
+  {
+    "id": "osm-node-12869852237",
+    "name": "Ciaccia Pizza and Focaccia",
+    "category": "food",
+    "lat": 38.0249285,
+    "lon": -78.4752714,
+    "address": ""
+  },
+  {
+    "id": "osm-node-12869852238",
+    "name": "Southern Crescent",
+    "category": "food",
+    "lat": 38.024705,
+    "lon": -78.475872,
+    "address": "814 Hinton Avenue"
+  },
+  {
+    "id": "osm-node-12904003431",
+    "name": "Mariscos El Barco",
+    "category": "food",
+    "lat": 38.031567,
+    "lon": -78.489232,
+    "address": "625 West Main Street"
+  },
+  {
+    "id": "osm-node-13613154669",
+    "name": "Asian Express",
+    "category": "food",
+    "lat": 38.0326395,
+    "lon": -78.4943472,
+    "address": "909 West Main Street"
+  },
+  {
+    "id": "osm-node-13613154670",
+    "name": "Mejicali",
+    "category": "food",
+    "lat": 38.0319794,
+    "lon": -78.492728,
+    "address": "852 West Main Street"
+  },
+  {
+    "id": "osm-node-13613154677",
+    "name": "Derriere de Soie",
+    "category": "shopping",
+    "lat": 38.0315338,
+    "lon": -78.4884944,
+    "address": "605 West Main Street"
+  },
+  {
+    "id": "osm-node-13613154679",
+    "name": "The One Bridal Salon",
+    "category": "shopping",
+    "lat": 38.031574,
+    "lon": -78.4882673,
+    "address": "603 West Main Street"
+  },
+  {
+    "id": "osm-node-13613154682",
+    "name": "Eloise",
+    "category": "shopping",
+    "lat": 38.0311739,
+    "lon": -78.4879235,
+    "address": "505 West Main Street"
+  },
+  {
+    "id": "osm-node-13613154691",
+    "name": "Taqueria El Comalito",
+    "category": "food",
+    "lat": 38.0298771,
+    "lon": -78.4746551,
+    "address": "905 East Market Street"
+  },
+  {
+    "id": "osm-node-13619316582",
+    "name": "La Michoacana",
+    "category": "food",
+    "lat": 38.0314661,
+    "lon": -78.4646028,
+    "address": "508 Stewart Street"
+  },
+  {
+    "id": "osm-node-13650618975",
+    "name": "Bambu",
+    "category": "food",
+    "lat": 38.0103629,
+    "lon": -78.4995597,
+    "address": "245 Merchant Walk Avenue"
+  },
+  {
+    "id": "osm-node-13742970542",
+    "name": "The Juice Laundry",
+    "category": "food",
+    "lat": 38.0356751,
+    "lon": -78.4880263,
+    "address": "722 8th Street Northwest"
+  },
+  {
+    "id": "osm-node-13818544620",
+    "name": "El Ranchero Restaurant Charlottesville",
+    "category": "food",
+    "lat": 38.0132902,
+    "lon": -78.5029382,
+    "address": "1145 5th Street Southwest"
+  },
+  {
+    "id": "osm-node-13927688254",
+    "name": "Sombrero's Café",
+    "category": "drinks",
+    "lat": 38.0307943,
+    "lon": -78.4819074,
+    "address": "112 West Main Street"
+  },
+  {
+    "id": "osm-node-13978831837",
+    "name": "Monkee's of Charlottesville",
+    "category": "shopping",
+    "lat": 38.0541681,
+    "lon": -78.4994926,
+    "address": "2138 Barracks Road"
+  },
+  {
+    "id": "osm-node-13983890592",
+    "name": "Six Ko Korean Eats",
+    "category": "food",
+    "lat": 38.0304971,
+    "lon": -78.4873069,
+    "address": "416,418 West Main Street"
+  },
+  {
+    "id": "osm-way-44528133",
+    "name": "Fralin Museum of Art",
+    "category": "culture",
+    "lat": 38.0382772,
+    "lon": -78.5030756,
+    "address": "155 Rugby Road"
+  },
+  {
+    "id": "osm-way-44528271",
+    "name": "Darden Court",
+    "category": "outdoors",
+    "lat": 38.0330014,
+    "lon": -78.5098607,
+    "address": ""
+  },
+  {
+    "id": "osm-way-44528552",
+    "name": "University Bookstore",
+    "category": "books",
+    "lat": 38.036265,
+    "lon": -78.5072535,
+    "address": "400 Emmet Street South"
+  },
+  {
+    "id": "osm-way-44528583",
+    "name": "McIntire Amphitheatre",
+    "category": "culture",
+    "lat": 38.0334788,
+    "lon": -78.5058314,
+    "address": "151 Amphitheater Way"
+  },
+  {
+    "id": "osm-way-44528716",
+    "name": "Luther P. Jackson Cultural Center",
+    "category": "culture",
+    "lat": 38.0328229,
+    "lon": -78.5063173,
+    "address": ""
+  },
+  {
+    "id": "osm-way-135326322",
+    "name": "Darden Towe Park",
+    "category": "outdoors",
+    "lat": 38.0424397,
+    "lon": -78.4492905,
+    "address": "1445 Darden Towe Park"
+  },
+  {
+    "id": "osm-way-135326403",
+    "name": "Charlotte Y. Humphris Park",
+    "category": "outdoors",
+    "lat": 38.0763492,
+    "lon": -78.4919895,
+    "address": ""
+  },
+  {
+    "id": "osm-way-187998168",
+    "name": "Market Street Park",
+    "category": "outdoors",
+    "lat": 38.0318024,
+    "lon": -78.4806067,
+    "address": "101 East Market Street"
+  },
+  {
+    "id": "osm-way-220645303",
+    "name": "Regal Stonefield Stadium 14 and IMAX",
+    "category": "culture",
+    "lat": 38.0647782,
+    "lon": -78.4932457,
+    "address": ""
+  },
+  {
+    "id": "osm-way-240430245",
+    "name": "Nameless Field",
+    "category": "outdoors",
+    "lat": 38.0375317,
+    "lon": -78.5062901,
+    "address": ""
+  },
+  {
+    "id": "osm-way-253276163",
+    "name": "Ting Pavilion",
+    "category": "culture",
+    "lat": 38.0292156,
+    "lon": -78.4765974,
+    "address": "700 East Main Street"
+  },
+  {
+    "id": "osm-way-253277742",
+    "name": "The Paramount Theater",
+    "category": "culture",
+    "lat": 38.0307926,
+    "lon": -78.480034,
+    "address": "215 East Main Street"
+  },
+  {
+    "id": "osm-way-253736880",
+    "name": "Washington Park",
+    "category": "outdoors",
+    "lat": 38.0406411,
+    "lon": -78.4906241,
+    "address": ""
+  },
+  {
+    "id": "osm-way-253923602",
+    "name": "Pen Park",
+    "category": "outdoors",
+    "lat": 38.0520866,
+    "lon": -78.4527034,
+    "address": "1300 Pen Park Road"
+  },
+  {
+    "id": "osm-way-254092819",
+    "name": "Burger King",
+    "category": "food",
+    "lat": 38.0112165,
+    "lon": -78.5049314,
+    "address": "1181 5th Street Southwest"
+  },
+  {
+    "id": "osm-way-254093108",
+    "name": "Black Cow Chophouse",
+    "category": "food",
+    "lat": 38.030651,
+    "lon": -78.4875421,
+    "address": "420 West Main Street"
+  },
+  {
+    "id": "osm-way-254093109",
+    "name": "Tavern & Grocery",
+    "category": "food",
+    "lat": 38.0307617,
+    "lon": -78.4863662,
+    "address": "333 West Main Street"
+  },
+  {
+    "id": "osm-way-254093112",
+    "name": "McDonald's",
+    "category": "food",
+    "lat": 38.0328947,
+    "lon": -78.4849521,
+    "address": "475 Ridge McIntire Road"
+  },
+  {
+    "id": "osm-way-254093115",
+    "name": "Wendy's",
+    "category": "food",
+    "lat": 38.0338421,
+    "lon": -78.4848125,
+    "address": "416 4th Street Northwest"
+  },
+  {
+    "id": "osm-way-254093120",
+    "name": "McGuffey Art Center",
+    "category": "culture",
+    "lat": 38.0322794,
+    "lon": -78.4821519,
+    "address": "201 2nd Street Northwest"
+  },
+  {
+    "id": "osm-way-254177868",
+    "name": "Benjamin Tonsler Park",
+    "category": "outdoors",
+    "lat": 38.0258951,
+    "lon": -78.4905488,
+    "address": ""
+  },
+  {
+    "id": "osm-way-254292964",
+    "name": "Quarry Park",
+    "category": "outdoors",
+    "lat": 38.0144196,
+    "lon": -78.4770199,
+    "address": ""
+  },
+  {
+    "id": "osm-way-258839825",
+    "name": "Starr Hill Park",
+    "category": "outdoors",
+    "lat": 38.0321112,
+    "lon": -78.4890071,
+    "address": ""
+  },
+  {
+    "id": "osm-way-263739573",
+    "name": "Hibachi Grill Supreme Buffet",
+    "category": "food",
+    "lat": 38.0683317,
+    "lon": -78.4851878,
+    "address": "1185 Seminole Trail"
+  },
+  {
+    "id": "osm-way-304719147",
+    "name": "McDonald's",
+    "category": "food",
+    "lat": 38.0485915,
+    "lon": -78.5043383,
+    "address": "941 Emmet Street North"
+  },
+  {
+    "id": "osm-way-304719149",
+    "name": "Chipotle",
+    "category": "food",
+    "lat": 38.0491567,
+    "lon": -78.5036364,
+    "address": "953 Emmet Street North"
+  },
+  {
+    "id": "osm-way-304719170",
+    "name": "Chick-fil-A",
+    "category": "food",
+    "lat": 38.0502429,
+    "lon": -78.5024886,
+    "address": "1000 Emmet Street North"
+  },
+  {
+    "id": "osm-way-305491793",
+    "name": "Court Square Park",
+    "category": "outdoors",
+    "lat": 38.0318628,
+    "lon": -78.4780775,
+    "address": ""
+  },
+  {
+    "id": "osm-way-324126440",
+    "name": "C&O Restaurant",
+    "category": "food",
+    "lat": 38.0290313,
+    "lon": -78.4781685,
+    "address": "515 Water Street East"
+  },
+  {
+    "id": "osm-way-324127910",
+    "name": "McGuffey Park",
+    "category": "outdoors",
+    "lat": 38.0329577,
+    "lon": -78.4816557,
+    "address": ""
+  },
+  {
+    "id": "osm-way-324128507",
+    "name": "Schenk's Greenway",
+    "category": "outdoors",
+    "lat": 38.0389175,
+    "lon": -78.4784742,
+    "address": "711 McIntire Road"
+  },
+  {
+    "id": "osm-way-324623530",
+    "name": "Riverside Lunch",
+    "category": "food",
+    "lat": 38.0332463,
+    "lon": -78.4626088,
+    "address": "1429 Hazel Street"
+  },
+  {
+    "id": "osm-way-324623543",
+    "name": "Jak 'n' Jil",
+    "category": "food",
+    "lat": 38.0324634,
+    "lon": -78.4629977,
+    "address": "1404 East High Street"
+  },
+  {
+    "id": "osm-way-332914587",
+    "name": "Guadalajara",
+    "category": "food",
+    "lat": 38.0299505,
+    "lon": -78.4754497,
+    "address": "805 East Market Street"
+  },
+  {
+    "id": "osm-way-337899126",
+    "name": "Tubby's",
+    "category": "food",
+    "lat": 38.0319006,
+    "lon": -78.4641959,
+    "address": "1412 East High Street"
+  },
+  {
+    "id": "osm-way-337899128",
+    "name": "Blue Ridge Graphics",
+    "category": "shopping",
+    "lat": 38.0322458,
+    "lon": -78.4632826,
+    "address": "550 Meade Avenue"
+  },
+  {
+    "id": "osm-way-339379987",
+    "name": "The Lawn",
+    "category": "outdoors",
+    "lat": 38.0342541,
+    "lon": -78.5041387,
+    "address": ""
+  },
+  {
+    "id": "osm-way-344842944",
+    "name": "Claude Moore Health Sciences Library",
+    "category": "books",
+    "lat": 38.0321516,
+    "lon": -78.5011386,
+    "address": ""
+  },
+  {
+    "id": "osm-way-377360791",
+    "name": "Aberdeen Barn",
+    "category": "food",
+    "lat": 38.0586854,
+    "lon": -78.4931275,
+    "address": "2018 Holiday Drive"
+  },
+  {
+    "id": "osm-way-377812673",
+    "name": "Korner Restaurant",
+    "category": "food",
+    "lat": 38.0290767,
+    "lon": -78.4954628,
+    "address": "415 Roosevelt Brown Boulevard"
+  },
+  {
+    "id": "osm-way-377813406",
+    "name": "Fifeville Park",
+    "category": "outdoors",
+    "lat": 38.0286778,
+    "lon": -78.5005331,
+    "address": ""
+  },
+  {
+    "id": "osm-way-378252521",
+    "name": "Forest Hills Park",
+    "category": "outdoors",
+    "lat": 38.0240097,
+    "lon": -78.4970547,
+    "address": "1022 Forest Hills Avenue"
+  },
+  {
+    "id": "osm-way-378263075",
+    "name": "Frys Spring Park",
+    "category": "outdoors",
+    "lat": 38.0182634,
+    "lon": -78.5143354,
+    "address": ""
+  },
+  {
+    "id": "osm-way-378868505",
+    "name": "Taco Bell",
+    "category": "food",
+    "lat": 38.0115018,
+    "lon": -78.5026775,
+    "address": "1158 5th Street Southwest"
+  },
+  {
+    "id": "osm-way-383720514",
+    "name": "Jordan Park",
+    "category": "outdoors",
+    "lat": 38.0172229,
+    "lon": -78.487724,
+    "address": "1607 6th Street Southeast"
+  },
+  {
+    "id": "osm-way-385192816",
+    "name": "Belmont Park",
+    "category": "outdoors",
+    "lat": 38.0189685,
+    "lon": -78.4815432,
+    "address": ""
+  },
+  {
+    "id": "osm-way-385201875",
+    "name": "Lampo",
+    "category": "food",
+    "lat": 38.0273426,
+    "lon": -78.4768667,
+    "address": "205 Monticello Road"
+  },
+  {
+    "id": "osm-way-385201895",
+    "name": "The Bridge Progressive Arts Initative",
+    "category": "culture",
+    "lat": 38.0272274,
+    "lon": -78.4767889,
+    "address": "209 Monticello Road"
+  },
+  {
+    "id": "osm-way-385361885",
+    "name": "Rives Park",
+    "category": "outdoors",
+    "lat": 38.0167082,
+    "lon": -78.4705555,
+    "address": "918 Rives Street"
+  },
+  {
+    "id": "osm-way-385959343",
+    "name": "Violet Crown Cinema",
+    "category": "culture",
+    "lat": 38.0307356,
+    "lon": -78.4826378,
+    "address": "200 West Main Street"
+  },
+  {
+    "id": "osm-way-385964885",
+    "name": "C’ville Arts: A Cooperative Gallery",
+    "category": "culture",
+    "lat": 38.0303767,
+    "lon": -78.4811601,
+    "address": "118 East Main Street"
+  },
+  {
+    "id": "osm-way-385964935",
+    "name": "J. Fenton Too",
+    "category": "shopping",
+    "lat": 38.0304501,
+    "lon": -78.4811867,
+    "address": "114 East Main Street"
+  },
+  {
+    "id": "osm-way-385964939",
+    "name": "Jack Brown’s Beer & Burger Joint",
+    "category": "food",
+    "lat": 38.0301895,
+    "lon": -78.4810929,
+    "address": "109 2nd Street Southeast"
+  },
+  {
+    "id": "osm-way-385964948",
+    "name": "2nd Act Books",
+    "category": "books",
+    "lat": 38.0301471,
+    "lon": -78.4803769,
+    "address": "214 East Main Street"
+  },
+  {
+    "id": "osm-way-386104123",
+    "name": "New Dominion Book Shop",
+    "category": "books",
+    "lat": 38.0297956,
+    "lon": -78.4791765,
+    "address": "404 East Main Street"
+  },
+  {
+    "id": "osm-way-386109909",
+    "name": "Virginia Discovery Museum",
+    "category": "culture",
+    "lat": 38.0293308,
+    "lon": -78.4780192,
+    "address": "524 East Main Street"
+  },
+  {
+    "id": "osm-way-386111802",
+    "name": "Sealed with a Kiss Bridal",
+    "category": "shopping",
+    "lat": 38.0298792,
+    "lon": -78.4779896,
+    "address": "505 East Main Street"
+  },
+  {
+    "id": "osm-way-386112890",
+    "name": "Daedalus Bookshop",
+    "category": "books",
+    "lat": 38.0307695,
+    "lon": -78.4790821,
+    "address": "123 Heather Heyer Way"
+  },
+  {
+    "id": "osm-way-386112907",
+    "name": "New City Arts",
+    "category": "culture",
+    "lat": 38.0308184,
+    "lon": -78.4796007,
+    "address": "114 3rd Street Northeast"
+  },
+  {
+    "id": "osm-way-386114280",
+    "name": "Derriere De Soie",
+    "category": "shopping",
+    "lat": 38.0309478,
+    "lon": -78.4812401,
+    "address": "105 East Main Street"
+  },
+  {
+    "id": "osm-way-386115143",
+    "name": "Afghan Kabob House",
+    "category": "food",
+    "lat": 38.0316679,
+    "lon": -78.4820783,
+    "address": "200 West Market Street"
+  },
+  {
+    "id": "osm-way-389457167",
+    "name": "Cumbre Bakery",
+    "category": "bakery",
+    "lat": 38.0305671,
+    "lon": -78.474722,
+    "address": "820 East Jefferson Street"
+  },
+  {
+    "id": "osm-way-389457230",
+    "name": "Jefferson-Madison Regional Library - Central Branch",
+    "category": "books",
+    "lat": 38.0314553,
+    "lon": -78.4799244,
+    "address": "201 East Market Street"
+  },
+  {
+    "id": "osm-way-395709828",
+    "name": "Red Hub Food Co.",
+    "category": "food",
+    "lat": 38.033963,
+    "lon": -78.4936862,
+    "address": "202 10th Street Northwest"
+  },
+  {
+    "id": "osm-way-396518815",
+    "name": "Bodo's Bagels",
+    "category": "bakery",
+    "lat": 38.0351416,
+    "lon": -78.4849569,
+    "address": "505 Preston Avenue"
+  },
+  {
+    "id": "osm-way-396518823",
+    "name": "C’ville Coffee",
+    "category": "drinks",
+    "lat": 38.0410236,
+    "lon": -78.4776241,
+    "address": "1301 Harris Street"
+  },
+  {
+    "id": "osm-way-396519091",
+    "name": "ReThreads",
+    "category": "shopping",
+    "lat": 38.040863,
+    "lon": -78.4786404,
+    "address": "1724 Allied Street"
+  },
+  {
+    "id": "osm-way-446429918",
+    "name": "Grit Coffee Bar & Cafe",
+    "category": "drinks",
+    "lat": 38.0364952,
+    "lon": -78.5001661,
+    "address": "19 Elliewood Avenue"
+  },
+  {
+    "id": "osm-way-461646424",
+    "name": "University Gardens Playground",
+    "category": "outdoors",
+    "lat": 38.044764,
+    "lon": -78.503641,
+    "address": ""
+  },
+  {
+    "id": "osm-way-469257213",
+    "name": "IX Art Park",
+    "category": "outdoors",
+    "lat": 38.0254171,
+    "lon": -78.482676,
+    "address": ""
+  },
+  {
+    "id": "osm-way-470204900",
+    "name": "The Field",
+    "category": "outdoors",
+    "lat": 38.0525802,
+    "lon": -78.5096366,
+    "address": ""
+  },
+  {
+    "id": "osm-way-543204852",
+    "name": "Greenleaf Park",
+    "category": "outdoors",
+    "lat": 38.0502565,
+    "lon": -78.4812157,
+    "address": "1598 Rose Hill Drive"
+  },
+  {
+    "id": "osm-way-651729364",
+    "name": "Panera Bread",
+    "category": "food",
+    "lat": 38.0114095,
+    "lon": -78.498349,
+    "address": "405 Merchant Walk Square"
+  },
+  {
+    "id": "osm-way-651729365",
+    "name": "Alamo Drafthouse Cinema",
+    "category": "culture",
+    "lat": 38.012049,
+    "lon": -78.4994879,
+    "address": "375 Merchant Walk Square"
+  },
+  {
+    "id": "osm-way-675867661",
+    "name": "Greenbrier Park",
+    "category": "outdoors",
+    "lat": 38.0612007,
+    "lon": -78.4716823,
+    "address": ""
+  },
+  {
+    "id": "osm-way-676185127",
+    "name": "Gordon Avenue Library",
+    "category": "books",
+    "lat": 38.0395571,
+    "lon": -78.4985698,
+    "address": "1506 Gordon Avenue"
+  },
+  {
+    "id": "osm-way-676194815",
+    "name": "Spies Garden",
+    "category": "outdoors",
+    "lat": 38.0532911,
+    "lon": -78.5100067,
+    "address": ""
+  },
+  {
+    "id": "osm-way-676195987",
+    "name": "Darden Library",
+    "category": "books",
+    "lat": 38.0528471,
+    "lon": -78.513922,
+    "address": ""
+  },
+  {
+    "id": "osm-way-676197460",
+    "name": "Moe's Original BBQ",
+    "category": "food",
+    "lat": 38.0430116,
+    "lon": -78.5117722,
+    "address": "2119 Ivy Road"
+  },
+  {
+    "id": "osm-way-676722006",
+    "name": "Afghan Kabob",
+    "category": "food",
+    "lat": 38.0437094,
+    "lon": -78.5049473,
+    "address": "400 Emmet Street North"
+  },
+  {
+    "id": "osm-way-676942056",
+    "name": "Wayside Takeout And Catering",
+    "category": "food",
+    "lat": 38.0253748,
+    "lon": -78.515291,
+    "address": "2203 Jefferson Park Avenue"
+  },
+  {
+    "id": "osm-way-762070046",
+    "name": "Northeast Park",
+    "category": "outdoors",
+    "lat": 38.0414541,
+    "lon": -78.4660521,
+    "address": ""
+  },
+  {
+    "id": "osm-way-857255763",
+    "name": "Jenkins Park",
+    "category": "outdoors",
+    "lat": 38.0336139,
+    "lon": -78.4897783,
+    "address": "200 8th Street Northwest"
+  },
+  {
+    "id": "osm-way-877567426",
+    "name": "Heyward Community Forest",
+    "category": "outdoors",
+    "lat": 38.027766,
+    "lon": -78.5530575,
+    "address": ""
+  },
+  {
+    "id": "osm-way-894330429",
+    "name": "Krispy Kreme",
+    "category": "food",
+    "lat": 38.0105379,
+    "lon": -78.4976645,
+    "address": "295 Merchant Walk Avenue"
+  },
+  {
+    "id": "osm-way-905558300",
+    "name": "Michie Tavern",
+    "category": "food",
+    "lat": 38.0086727,
+    "lon": -78.4636412,
+    "address": ""
+  },
+  {
+    "id": "osm-way-921765514",
+    "name": "Szechuan Restaurant",
+    "category": "food",
+    "lat": 38.0581178,
+    "lon": -78.4919359,
+    "address": "2006 Holiday Drive"
+  },
+  {
+    "id": "osm-way-978016831",
+    "name": "Meadow Creek Gardens and Disc Golf Course",
+    "category": "outdoors",
+    "lat": 38.0557907,
+    "lon": -78.4922402,
+    "address": "2030 Morton Drive"
+  },
+  {
+    "id": "osm-way-979820713",
+    "name": "CATS Grove",
+    "category": "outdoors",
+    "lat": 38.0479794,
+    "lon": -78.4742947,
+    "address": ""
+  },
+  {
+    "id": "osm-way-980739403",
+    "name": "Meadow Creek Valley",
+    "category": "outdoors",
+    "lat": 38.063204,
+    "lon": -78.4841998,
+    "address": "2100 Michie Drive"
+  },
+  {
+    "id": "osm-way-980740642",
+    "name": "Meadow Creek Valley",
+    "category": "outdoors",
+    "lat": 38.0651349,
+    "lon": -78.4773318,
+    "address": ""
+  },
+  {
+    "id": "osm-way-985193670",
+    "name": "Botanical Garden of the Piedmont",
+    "category": "outdoors",
+    "lat": 38.0500538,
+    "lon": -78.4732031,
+    "address": "950 Melbourne Road"
+  },
+  {
+    "id": "osm-way-993323867",
+    "name": "Unity Field",
+    "category": "outdoors",
+    "lat": 38.0424163,
+    "lon": -78.4680976,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1002782026",
+    "name": "Bailey Mini-Park",
+    "category": "outdoors",
+    "lat": 38.0431985,
+    "lon": -78.4761268,
+    "address": "990 Hillcrest Road"
+  },
+  {
+    "id": "osm-way-1021495615",
+    "name": "Dunkin'",
+    "category": "food",
+    "lat": 38.0320907,
+    "lon": -78.4556711,
+    "address": "160 Riverbend Drive"
+  },
+  {
+    "id": "osm-way-1049712476",
+    "name": "Outback Steakhouse",
+    "category": "food",
+    "lat": 38.0658639,
+    "lon": -78.4872598,
+    "address": "1101 Seminole Trail"
+  },
+  {
+    "id": "osm-way-1049747736",
+    "name": "Fabio's NY Pizza",
+    "category": "food",
+    "lat": 38.0342346,
+    "lon": -78.4607117,
+    "address": "1551 East High Street"
+  },
+  {
+    "id": "osm-way-1054228852",
+    "name": "Starbucks",
+    "category": "drinks",
+    "lat": 38.0586811,
+    "lon": -78.4949141,
+    "address": "1617 Emmet Street North"
+  },
+  {
+    "id": "osm-way-1057487590",
+    "name": "Meade Park",
+    "category": "outdoors",
+    "lat": 38.0276088,
+    "lon": -78.4650894,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1060105454",
+    "name": "Park at Ivy",
+    "category": "outdoors",
+    "lat": 38.0494585,
+    "lon": -78.5144413,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1064856074",
+    "name": "Bodo's Bagels",
+    "category": "bakery",
+    "lat": 38.0561836,
+    "lon": -78.4956931,
+    "address": "1418 Emmet Street North"
+  },
+  {
+    "id": "osm-way-1088488918",
+    "name": "KFC",
+    "category": "food",
+    "lat": 38.0592362,
+    "lon": -78.4944933,
+    "address": "1705 Emmet Street North"
+  },
+  {
+    "id": "osm-way-1088921228",
+    "name": "Raising Cane's",
+    "category": "food",
+    "lat": 38.0600602,
+    "lon": -78.4938613,
+    "address": "1805 Emmet Street North"
+  },
+  {
+    "id": "osm-way-1088921232",
+    "name": "Milan Indian Cuisine",
+    "category": "food",
+    "lat": 38.0605836,
+    "lon": -78.4933262,
+    "address": "1817 Emmet Street North"
+  },
+  {
+    "id": "osm-way-1133334390",
+    "name": "East Garden",
+    "category": "food",
+    "lat": 38.0330033,
+    "lon": -78.455542,
+    "address": "120 Riverbend Drive"
+  },
+  {
+    "id": "osm-way-1133334647",
+    "name": "McDonald's",
+    "category": "food",
+    "lat": 38.0346567,
+    "lon": -78.455325,
+    "address": "1294 Stoney Point Road"
+  },
+  {
+    "id": "osm-way-1138478297",
+    "name": "Washington Park Bog Garden",
+    "category": "outdoors",
+    "lat": 38.0409272,
+    "lon": -78.4901021,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1147457500",
+    "name": "Longwood Park",
+    "category": "outdoors",
+    "lat": 38.0116071,
+    "lon": -78.5076797,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1163081738",
+    "name": "The Grove",
+    "category": "outdoors",
+    "lat": 38.0466447,
+    "lon": -78.4745868,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1175220127",
+    "name": "Azalea Park",
+    "category": "outdoors",
+    "lat": 38.0110134,
+    "lon": -78.5151427,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1181508363",
+    "name": "Taco Bell",
+    "category": "food",
+    "lat": 38.0326632,
+    "lon": -78.4556475,
+    "address": "140 River Bend Drive"
+  },
+  {
+    "id": "osm-way-1301320564",
+    "name": "The Tahija Arboretum & Lacross Botanical Gardens",
+    "category": "outdoors",
+    "lat": 38.0530411,
+    "lon": -78.5122933,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1305419428",
+    "name": "The Class Of 1987 Amphitheater",
+    "category": "culture",
+    "lat": 38.0526815,
+    "lon": -78.5123461,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1307264034",
+    "name": "Ivy Inn Restaurant",
+    "category": "food",
+    "lat": 38.0459277,
+    "lon": -78.5162999,
+    "address": "2244 Old Ivy Road"
+  },
+  {
+    "id": "osm-way-1341880110",
+    "name": "Courtnay's Garden",
+    "category": "outdoors",
+    "lat": 38.0520856,
+    "lon": -78.5144552,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1341880111",
+    "name": "Keunen Garden",
+    "category": "outdoors",
+    "lat": 38.0516234,
+    "lon": -78.5147376,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1341880115",
+    "name": "Flagler Court",
+    "category": "outdoors",
+    "lat": 38.0519827,
+    "lon": -78.5148927,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1412535596",
+    "name": "Jane Heyward Garden",
+    "category": "outdoors",
+    "lat": 38.028554,
+    "lon": -78.5381759,
+    "address": ""
+  },
+  {
+    "id": "osm-way-1428878701",
+    "name": "Riverview Park",
+    "category": "outdoors",
+    "lat": 38.0251715,
+    "lon": -78.4540727,
+    "address": "1909 Chesapeake Street"
+  },
+  {
+    "id": "osm-relation-4785298",
+    "name": "The Whispering Well",
+    "category": "outdoors",
+    "lat": 38.0349723,
+    "lon": -78.5067423,
+    "address": ""
+  },
+  {
+    "id": "osm-relation-4809206",
+    "name": "Pavilion Garden VIII",
+    "category": "outdoors",
+    "lat": 38.0342104,
+    "lon": -78.5031757,
+    "address": ""
+  },
+  {
+    "id": "osm-relation-4809207",
+    "name": "Pavilion Garden X",
+    "category": "outdoors",
+    "lat": 38.0338135,
+    "lon": -78.5033854,
+    "address": ""
+  },
+  {
+    "id": "osm-relation-4809414",
+    "name": "Pavilion Garden II",
+    "category": "outdoors",
+    "lat": 38.0351496,
+    "lon": -78.5026578,
+    "address": ""
+  },
+  {
+    "id": "osm-relation-4809415",
+    "name": "Pavilion Garden VI",
+    "category": "outdoors",
+    "lat": 38.0345633,
+    "lon": -78.5029909,
+    "address": ""
+  },
+  {
+    "id": "osm-relation-4809416",
+    "name": "Pavilion Garden VI",
+    "category": "outdoors",
+    "lat": 38.0348691,
+    "lon": -78.5028368,
+    "address": ""
+  },
+  {
+    "id": "osm-relation-4809663",
+    "name": "Pavilion Garden IX",
+    "category": "outdoors",
+    "lat": 38.0343503,
+    "lon": -78.5050399,
+    "address": ""
+  },
+  {
+    "id": "osm-relation-4809664",
+    "name": "Pavilion Garden III",
+    "category": "outdoors",
+    "lat": 38.0354319,
+    "lon": -78.5044419,
+    "address": ""
+  },
+  {
+    "id": "osm-relation-4809665",
+    "name": "Pavilion Garden V",
+    "category": "outdoors",
+    "lat": 38.0351038,
+    "lon": -78.5046144,
+    "address": ""
+  },
+  {
+    "id": "osm-relation-4809666",
+    "name": "Pavilion Garden VII",
+    "category": "outdoors",
+    "lat": 38.0347641,
+    "lon": -78.5048622,
+    "address": ""
+  },
+  {
+    "id": "osm-relation-4809667",
+    "name": "Pavilion Garden I",
+    "category": "outdoors",
+    "lat": 38.0356968,
+    "lon": -78.5043184,
+    "address": ""
+  },
+  {
+    "id": "osm-relation-4866579",
+    "name": "Shannon Library",
+    "category": "books",
+    "lat": 38.036616,
+    "lon": -78.5052681,
+    "address": "160 Mccormick Road"
+  },
+  {
+    "id": "osm-relation-13163266",
+    "name": "McIntire Park",
+    "category": "outdoors",
+    "lat": 38.0484189,
+    "lon": -78.4768223,
+    "address": ""
+  },
+  {
+    "id": "osm-relation-14391614",
+    "name": "Brown's",
+    "category": "food",
+    "lat": 38.0200666,
+    "lon": -78.4819315,
+    "address": "1210 Avon Street"
+  },
+  {
+    "id": "osm-relation-16629471",
+    "name": "Azalea Park West",
+    "category": "outdoors",
+    "lat": 38.0129653,
+    "lon": -78.5204084,
+    "address": ""
+  }
+]

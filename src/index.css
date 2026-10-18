@@ -1,0 +1,148 @@
+
+.app {
+  min-height: 100vh;
+  background: #f8f6f0;
+  color: #283b2d;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 8%;
+  border-bottom: 1px solid #e5e5dc;
+}
+
+.navbar h2 {
+  font-size: 28px;
+  letter-spacing: -1px;
+}
+
+.navbar h2 span {
+  color: #8ca47c;
+}
+
+.navbar p {
+  font-size: 11px;
+  letter-spacing: 2px;
+  color: #71816f;
+}
+
+.hero {
+  padding: 75px 8%;
+  display: flex;
+  justify-content: center;
+}
+
+.hero-content {
+  width: 100%;
+  max-width: 760px;
+}
+
+.eyebrow {
+  font-size: 12px;
+  letter-spacing: 3px;
+  color: #819477;
+  font-weight: 600;
+}
+
+h1 {
+  font-size: clamp(36px, 5vw, 64px);
+  line-height: 1.12;
+  letter-spacing: -2px;
+  margin: 22px 0;
+}
+
+.description {
+  color: #6c776a;
+  font-size: 17px;
+  line-height: 1.7;
+  max-width: 540px;
+}
+
+.planner {
+  background: white;
+  padding: 32px;
+  border-radius: 20px;
+  margin-top: 40px;
+  box-shadow: 0 12px 40px #283b2d0d;
+}
+
+.planner h3 {
+  font-size: 23px;
+  margin-bottom: 28px;
+}
+
+.planner label {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+  margin: 24px 0 10px;
+}
+
+.planner input {
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #d8dfd5;
+  border-radius: 10px;
+  font-size: 15px;
+  box-sizing: border-box;
+  background: white;
+  color: #283b2d;
+}
+
+.interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.interest {
+  padding: 12px 17px;
+  background: #f3f5ef;
+  border: 1px solid #e3e9df;
+  border-radius: 30px;
+  cursor: pointer;
+  color: #435440;
+}
+
+.interest.selected {
+  background: #dce9d5;
+  border-color: #739269;
+  color: #283b2d;
+}
+
+.plan-button {
+  width: 100%;
+  padding: 17px;
+  background: #405b42;
+  color: white;
+  border: none;
+  border-radius: 11px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.plan-button:hover {
+  background: #304832;
+}
+
+@media (max-width: 600px) {
+  .navbar {
+    padding: 20px;
+  }
+
+  .navbar p {
+    display: none;
+  }
+
+  .hero {
+    padding: 45px 20px;
+  }
+
+  .planner {
+    padding: 22px;
+  }
+}
