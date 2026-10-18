@@ -154,7 +154,7 @@ try {
   data = JSON.parse(responseText)
 } catch {
   throw new Error(
-    'Your adventure took too long to generate. Please try again! 🌿'
+    'Your adventure took too long to generate. Please try again! '
   )
 }
 
@@ -187,7 +187,7 @@ try {
 
         <main className="hero">
           <div className="hero-content" style={{ textAlign: 'center' }}>
-            <h1>Finding your next little adventure... 🌿</h1>
+            <h1>Finding your next little adventure... </h1>
             <p className="description">
               Discovering places that match your vibe.
             </p>
@@ -218,7 +218,7 @@ try {
             overflowY: 'auto',
           }}
         >
-          <h1>Your Sidequest 🌿</h1>
+          <h1>Your Sidequest </h1>
           <p>Starting from: {startingPoint}</p>
 
           <DndContext
@@ -330,8 +330,8 @@ try {
   return (
     <div className="app">
       <header className="navbar">
-        <h2>soloside<span>.</span></h2>
-        <p>GO OUT. EVEN SOLO.</p>
+        <h2>sidequest<span>.</span></h2>
+        <p>your day deserves a sidequest</p>
       </header>
 
       <main className="hero">
@@ -350,12 +350,12 @@ try {
           </p>
 
           <div className="planner">
-            <h3>Let's plan your day ✨</h3>
+            <h3>Let's plan your adventure</h3>
 
             <label>Where are you starting?</label>
             <input
               type="text"
-              placeholder="e.g. Vienna Metro Station"
+              placeholder="e.g. UVA Rotunda"
               value={startingPoint}
               onChange={(e) => setStartingPoint(e.target.value)}
             />
@@ -422,7 +422,7 @@ try {
 
 {stops.length > 0 && (
   <section className="itinerary-result">
-    <h3>Your Sidequest 🌿</h3>
+    <h3>Your Sidequest</h3>
 
     <p>Starting from: {startingPoint}</p>
 
