@@ -196,7 +196,7 @@ for (let attempt = 0; attempt < 3; attempt++) {
     }
   )
 
-  if (response.status !== 503 && response.status !== 429) {
+  if (response.status !== 503)  {
     break
   }
 
